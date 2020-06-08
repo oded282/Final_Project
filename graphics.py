@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+import numpy as np
 
 # This function plot the bars graph
 def simple_bar_graph(animals_names, all_animals):

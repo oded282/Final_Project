@@ -1,5 +1,6 @@
 import re
 
+from pattern3.en import pluralize, singularize
 
 # This function used to create to files from the animal dictionary we find in the internet.
 # The dictionary contains an animal common name, and the scientific name related to the common one.
@@ -34,3 +35,32 @@ def create_animals_files(all_animals_file, common_names_file, scientific_names_f
                         dict.append(line)
 
                     line = ofd.readline()
+
+
+def arrange_animals_list(animals):
+    all_animal_set = set()
+    plural_animal_name = ''
+    special_animals_dic = {'cow': 'cows', 'silvestris': 'silvestrium'}
+
+    for animal in animals:
+
+        if animal in special_animals_dic.keys():
+            plural_animal_name = special_animals_dic[animal]
+
+        elif animal in all_animal_set:
+            continue
+
+        elif singularize(animal) == animal:
+            plural_animal_name = pluralize(animal.lower())
+        else:
+            temp = animal.lower()
+            plural_animal_name = animal.lower()
+            animal = singularize(temp).lower()
+
+        all_animal_set.add(plural_animal_name.lower())
+        all_animal_set.add(animal.lower())
+
+    all_animal_set.remove('')
+    all_animal_set.remove('s')
+
+    return all_animal_set
