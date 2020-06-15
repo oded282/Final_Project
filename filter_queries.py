@@ -62,7 +62,7 @@ def filter_2_result_query(data, per_animals_list):
 
 
 def write_to_file(result, complex_sentence_list):
-    with open("manually_filter", "w", encoding="utf8") as file:
+    with open("transsmissions_data", "w", encoding="utf8") as file:
         for index, line in enumerate(result):
             file.write(str(index) + "|" + str(line[0]) + "|" + str(line[1]))
 
