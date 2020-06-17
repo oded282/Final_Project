@@ -3,7 +3,7 @@ import re
 def main():
 
     edge_norm = 2
-    pattern = re.compile(r'[a-z]+')
+    pattern = re.compile(r'[a-z]+\s*[a-z]*')
     weight_counter = {}
     dict = {}
 
@@ -13,7 +13,7 @@ def main():
         while line:
 
             if is_link:
-                label = "[label=<<table> <tr><td href=\"{}\">link</td></tr> </table>>,taillabel={},penwith={}]"\
+                label = "[taillabel=<<table> <tr><td href=\"{}\">link</td></tr> </table>>,label={},penwith={}]"\
                     .format(line.strip('|').strip('\n'), str(weight_counter[animals]),
                             weight_counter[animals] / edge_norm)
                 dict[animals] += label
@@ -21,14 +21,14 @@ def main():
             else:
                 animals_pair = line.split('|')[1]
                 matches = pattern.findall(animals_pair)
-                animals = matches[0] + "->" + matches[1]
+                animals = matches[0].replace(" ", "_") + "->" + matches[1].replace(" ", "_")
 
                 if animals in dict:
                     link = file.readline()
                     link = "\n\t<tr><td href=\"{}\">link</td></tr>".format(link.strip('|').strip('\n'))
                     weight_counter[animals] += 1
                     index = dict[animals].index('</table>>')
-                    dict[animals] = (dict.get(animals)[:index] + link + "</table>>,taillabel=" + str(weight_counter[animals])
+                    dict[animals] = (dict.get(animals)[:index] + link + "</table>>,label=" + str(weight_counter[animals])
                                      + ",penwidth=" + str(weight_counter[animals] / edge_norm) + "]")
                     line = file.readline()
                     continue
