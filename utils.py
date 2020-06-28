@@ -64,3 +64,27 @@ def arrange_animals_list(animals):
     all_animal_set.remove('s')
 
     return all_animal_set
+
+
+def remove_nodes_from_svg_file():
+
+    write_to_file = []
+    prev_line = ""
+    with open('graphviz.svg','r') as file:
+        for line in file:
+            if line.startswith('<polygon fill="none" stroke="#000000" points=') and prev_line == '</g>\n':
+                continue
+
+            write_to_file.append(line)
+            prev_line = line
+
+    with open('graph.svg','w') as file:
+        file.write("\n".join(write_to_file))
+
+
+def main():
+    remove_nodes_from_svg_file()
+
+
+if __name__ == "__main__":
+    main()
