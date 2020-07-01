@@ -81,11 +81,11 @@ def remove_nodes_from_svg_file():
     with open('graph.svg','w') as file:
         file.write("\n".join(write_to_file))
         
- def sort_file(file_name):
+def sort_file(file_name):
     data = []
     with open(file_name, "r", encoding="utf8") as file:
         for line in file:
-            data.append("|".join(line.split("|")[1:]))
+            data.append("|".join(line.split("|")[:]))
 
     data.sort()
     with open("sorted_file", "w", encoding="utf8") as file:
