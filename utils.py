@@ -1,6 +1,7 @@
 import re
 
-from pattern3.en import pluralize, singularize
+#from pattern3 import pluralize, singularize
+
 
 # This function used to create to files from the animal dictionary we find in the internet.
 # The dictionary contains an animal common name, and the scientific name related to the common one.
@@ -65,7 +66,6 @@ def arrange_animals_list(animals):
 
     return all_animal_set
 
-
 def remove_nodes_from_svg_file():
 
     write_to_file = []
@@ -80,6 +80,16 @@ def remove_nodes_from_svg_file():
 
     with open('graph.svg','w') as file:
         file.write("\n".join(write_to_file))
+        
+ def sort_file(file_name):
+    data = []
+    with open(file_name, "r", encoding="utf8") as file:
+        for line in file:
+            data.append("|".join(line.split("|")[1:]))
+
+    data.sort()
+    with open("sorted_file", "w", encoding="utf8") as file:
+        file.write("".join(data))
 
 
 def main():
@@ -88,3 +98,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
