@@ -1,6 +1,7 @@
 import re
 from Final_Project.utils import sort_file
 
+
 def generate_graphviz_data(file_name):
     edge_norm = 5
     pattern = re.compile(r'[a-z]+\s*[a-z]*')
@@ -48,14 +49,48 @@ def generate_graphviz_data(file_name):
 
     return parag2link
 
+
+def add_icon_to_svg(r_file_name, w_file_name):
+    pattern1 = re.compile(r'a_edge\d+_\d+')
+    pattern2 = re.compile(r'x="-*\d+\.\d+"')
+    pattern3 = re.compile(r'y="-*\d+\.\d+"')
+    all_ids = []
+
+    with open(r_file_name, "r", encoding="utf8") as r_file, open(w_file_name, "w") as w_file:
+        line = r_file.readline()
+
+        while line:
+
+            if "xlink:href" in line:
+                id = pattern1.findall(line)[0]
+                all_ids.append(id)
+                w_file.write(line) # write the xlink line
+                line = r_file.readline()
+                w_file.write(line) # write line
+                line = r_file.readline()
+                w_file.write(line)
+
+                x = float(pattern2.findall(line)[0][3:-1])
+                y = float(pattern3.findall(line)[0][3:-1])
+
+                w_file.write("<g id=\"icon_{}\" class=\"icon\" pointer-events=\"all\">"
+                             "<circle cx=\"{}\" cy=\"{}\" r=\"8\" fill=\"none\" stroke=\"gold\" " 
+                             "stroke-width=\"1.5\"/>"
+                             "<circle cx=\"{}\" cy=\"{}\" r=\"0.75\" fill=\"gold\"/>"
+                             "<rect x=\"{}\" y=\"{}\" width=\"1\" height=\"6\" fill=\"gold\"/></g>"
+                             .format(id, x+38.052, y-3.0676, x+38.052, y - 7.0676, x + 37.552, y - 5.0676))
+            else:
+                w_file.write(line)
+
+            line = r_file.readline()
+
+
 def main():
     sort_file("transsmissions_data3")
     parag2link = generate_graphviz_data("sorted_file")
+    #add_icon_to_svg("data/graphviz.svg", "data/graphviz2.svg")
 
-
-
-
-    #TODO 1. Generate transmission_data and filter it
+    # TODO 1. Generate transmission_data and filter it
     # 2. build sort function (sort by animal poair)
     # 3. build generate_graphviz (current impl doesn't fit the transmissions graph)
     # 4. create svg file
@@ -64,5 +99,7 @@ def main():
     # 7. Insert to SVG the info icons
     # 8. Create all the div paragraphs
     # 9. Create javascript code to add events to pop up paragraph.
+
+
 if __name__ == "__main__":
     main()
