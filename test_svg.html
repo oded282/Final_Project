@@ -4,7 +4,7 @@
 body {
   background-color: #33333f;
 }
-#mypopup {
+.paragraph {
   width: 400px;
   padding: 20px;
   font-family: Arial, sans-serif;
@@ -15,7 +15,7 @@ body {
   display: none;
 }
 
-#mypopup::before {
+.paragraph::before {
   content: "";
   width: 12px;
   height: 12px;
@@ -1728,10 +1728,10 @@ body {
 <text text-anchor="start" x="714.9477" y="-516.9324" font-family="Times,serif" font-size="14.00" fill="#ffffff">link</text>
 
 </a>
-  <g id="myicon" class="icon" pointer-events="all">
-  <circle cx="753" cy="-520" r="10" fill="none" stroke="gold" stroke-width="2"/>
-  <circle cx="753" cy="-524" r="1.5" fill="gold"/>
-  <rect x="752" y="-522" width="2" height="8" fill="gold"/>
+  <g id="icon_a_edge39_83" class="icon" pointer-events="all">
+  <circle cx="753" cy="-520" r="8" fill="none" stroke="gold" stroke-width="1.5"/>
+  <circle cx="753" cy="-524" r="0.75" fill="gold"/>
+  <rect x="752.5" y="-522" width="1" height="6" fill="gold"/>
 </g>
 
 </g>
@@ -1741,14 +1741,14 @@ body {
 </g>
 </svg>
 
-<div id="mypopup">
-  <h3>Popup title</h3>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div id="info_a_edge39_83" class="paragraph">
+  <h3>Paragraph</h3>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequatxmhcjkzxnvjknzxkcnkjxncjxncjzxvnbz cjznxc zxnczxkjnxzbczkxnbzxncbzxcj.</p>
   <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 </div>
 </body>
-<script>
 
+<script>
 //<![CDATA[
 
 var acc = document.getElementsByClassName("edge");
@@ -1763,11 +1763,8 @@ for (; i < size; i++) {
         }
     }
     acc[i].addEventListener("click", function(event) {
-
         elems = event.target.parentNode.childNodes;
-
         for (var j = 0; j < elems.length; j++){
-
             if (elems[j].tagName === "g"){
                 if (elems[j].style.display === "none"){
                     elems[j].style.display = "table";
@@ -1779,24 +1776,35 @@ for (; i < size; i++) {
         }
     },false);
 }
-var myicon = document.getElementById("myicon");
-var mypopup = document.getElementById("mypopup");
 
-myicon.addEventListener("mouseover", showPopup);
-myicon.addEventListener("mouseout", hidePopup);
+var icons = document.getElementsByClassName("icon");
+var size_icons = icons.length;
+var j = 0;
+
+for (; j < size_icons; j++) {
+
+    icons[j].addEventListener("mouseover", showPopup);
+    icons[j].addEventListener("mouseout", hidePopup);
+}
 
 function showPopup(evt) {
 
-  var iconPos = myicon.getBoundingClientRect();
-  mypopup.style.left = (iconPos.right + 20) + "px";
-  mypopup.style.top = (window.scrollY + iconPos.top - 60) + "px";
-  mypopup.style.display = "block";
+    var iconPos = this.getBoundingClientRect();
+    var id = "info_".concat(this.id.substring(5));
+    var paragraph = document.getElementById(id);
+
+    paragraph.style.left = (iconPos.right + 20) + "px";
+    paragraph.style.top = (window.scrollY + iconPos.top - 60) + "px";
+    paragraph.style.display = "block";
+
 }
 
 function hidePopup(evt) {
-  mypopup.style.display = "none";
-}
 
+    var id = "info_".concat(this.id.substring(5));
+    var paragraph = document.getElementById(id);
+    paragraph.style.display = "none";
+}
 
 //]]>
 </script>

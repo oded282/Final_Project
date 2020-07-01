@@ -1,6 +1,7 @@
 import re
 
-#from pattern3 import pluralize, singularize
+
+# from pattern3 import pluralize, singularize
 
 
 # This function used to create to files from the animal dictionary we find in the internet.
@@ -66,11 +67,11 @@ def arrange_animals_list(animals):
 
     return all_animal_set
 
-def remove_nodes_from_svg_file():
 
+def remove_nodes_from_svg_file():
     write_to_file = []
     prev_line = ""
-    with open('graphviz.svg','r') as file:
+    with open('graphviz.svg', 'r') as file:
         for line in file:
             if line.startswith('<polygon fill="none" stroke="#000000" points=') and prev_line == '</g>\n':
                 continue
@@ -78,9 +79,10 @@ def remove_nodes_from_svg_file():
             write_to_file.append(line)
             prev_line = line
 
-    with open('graph.svg','w') as file:
+    with open('graph.svg', 'w') as file:
         file.write("\n".join(write_to_file))
-        
+
+
 def sort_file(file_name):
     data = []
     with open(file_name, "r", encoding="utf8") as file:
@@ -92,10 +94,46 @@ def sort_file(file_name):
         file.write("".join(data))
 
 
-def main():
-    remove_nodes_from_svg_file()
+def create_divs(id2paragraph):
+    divs_list = []
 
+    for id, parg in id2paragraph.items():
+        div_string = "<div id=\"info_" + id + "\">\n<h3>paragraph source</h3>\n<p>" + parg + "</p>\n</div>"
+        divs_list.append(div_string)
+
+    with open("div_file", "w", encoding="utf8") as file:
+        file.write("\n\n".join(divs_list))
+
+
+def create_id2para(file_name):
+    id2paragraph = {}
+
+    with open(file_name, "r", encoding="utf8")as file:
+        old_pairs = []
+        pair_counter = 0
+        for index, line in enumerate(file):
+            temp = line.split("|")
+            pair = temp[0]
+            paragraph = temp[3]
+            if pair not in old_pairs:
+                pair_counter += 1
+            id2paragraph.update({"a_edge" + str(pair_counter) + "_" + str(index): paragraph})
+            old_pairs.append(pair)
+    return id2paragraph
+
+def main():
+    # id2paragraph = {
+    #     "a_edge1_0": "jsdhfjdnjxn;cvjnzxjccxbjmb xnmchnjcn mxcnnnnnnnnnnnnnnnnnnnnnnnnmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmxcjhkxhc jhxchxjchxjcnxcjn",
+    #     "a_edge1_1": "ssssssssssssssssssssssssssssssssssssssssssssssssss sssssssssssssss dk                   kdddddddddddd kddddddddddddddddddddddddddddddddddddddddddddd",
+    #     "a_edge1_2": "jsdhfjdnjxn;cvjnzxjccxbjmb xnmchnjcn mxcnnnnnnnnnnnnnnnnnnnnnnnnmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmxcjhkxhc jhxchxjchxjcnxcjn",
+    #     "a_edge1_3": "ssssssssssssssssssssssssssssssssssssssssssssssssss sssssssssssssss dk                   kdddddddddddd kddddddddddddddddddddddddddddddddddddddddddddd",
+    #     "a_edge2_4": "jsdhfjdnjxn;cvjnzxjccxbjmb xnmchnjcn mxcnnnnnnnnnnnnnnnnnnnnnnnnmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmxcjhkxhc jhxchxjchxjcnxcjn",
+    #     "a_edge2_5": "ssssssssssssssssssssssssssssssssssssssssssssssssss sssssssssssssss dk                   kdddddddddddd kddddddddddddddddddddddddddddddddddddddddddddd",
+    #     "a_edge2_6": "jsdhfjdnjxn;cvjnzxjccxbjmb xnmchnjcn mxcnnnnnnnnnnnnnnnnnnnnnnnnmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmxcjhkxhc jhxchxjchxjcnxcjn",
+    #     "a_edge2_7": "ssssssssssssssssssssssssssssssssssssssssssssssssss sssssssssssssss dk                   kdddddddddddd kddddddddddddddddddddddddddddddddddddddddddddd",
+    # }
+    # create_divs(id2paragraph)
+    create_id2para("sorted_file")
 
 if __name__ == "__main__":
     main()
-

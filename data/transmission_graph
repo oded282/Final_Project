@@ -2,22 +2,22 @@ digraph prof {
 	ratio = fill;
 	node [style=filled, fillcolor=lightblue];
 	alpaca->bat[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7192909/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
-	bat->civet[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2831534/pdf/">link</td></tr> 
-	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6880172/pdf/">link</td></tr>
+	bat->alpaca[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7192909/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	bat->camel[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6880172/pdf/">link</td></tr> 
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6818114/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7149753/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7080179/pdf/">link</td></tr></table>>,label=4,penwidth=2.8]
+	bat->civet[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6880172/pdf/">link</td></tr> 
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7106130/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7163996/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7112277/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7154514/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3119930/pdf/">link</td></tr>
 	<tr><td href="https://api.semanticscholar.org/v1/paper/4bc7c77f00f5b46fea1d6ef83c44d7a58b687eef">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2831534/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3647518/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7180649/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7129017/pdf/">link</td></tr></table>>,label=11,penwidth=4.2]
-	bat->alpaca[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7192909/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
-	bat->camel[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6818114/pdf/">link</td></tr> 
-	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7149753/pdf/">link</td></tr>
-	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7080179/pdf/">link</td></tr></table>>,label=3,penwidth=2.6]
-	bat->camels[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6880172/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
 	bat->dromedary[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7154514/pdf/">link</td></tr> 
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7180649/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7129017/pdf/">link</td></tr></table>>,label=3,penwidth=2.6]
