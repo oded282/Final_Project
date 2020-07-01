@@ -1,72 +1,148 @@
 digraph prof {
 	ratio = fill;
 	node [style=filled, fillcolor=lightblue];
+	alpaca->bat[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7192909/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	bat->civet[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2831534/pdf/">link</td></tr> 
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6880172/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7106130/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7163996/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7112277/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7154514/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3119930/pdf/">link</td></tr>
+	<tr><td href="https://api.semanticscholar.org/v1/paper/4bc7c77f00f5b46fea1d6ef83c44d7a58b687eef">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3647518/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7180649/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7129017/pdf/">link</td></tr></table>>,label=11,penwidth=4.2]
+	bat->alpaca[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7192909/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
 	bat->camel[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6818114/pdf/">link</td></tr> 
-	<tr><td href="https://api.semanticscholar.org/10.1016/b978-0-12-800838-6.00021-7">link</td></tr>
-	<tr><td href="https://api.semanticscholar.org/10.1016/j.chom.2020.02.001">link</td></tr>
-	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7080179/pdf/">link</td></tr></table>>,label=4,penwidth=2.0]
-	bat->cat[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3647518/pdf/">link</td></tr> 
-	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3647518/pdf/">link</td></tr></table>>,label=2,penwidth=1.0]
-	bat->civet[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3630921/pdf/">link</td></tr> 
-	<tr><td href="https://api.semanticscholar.org/10.1016/j.meegid.2018.04.031">link</td></tr>
-	<tr><td href="https://api.semanticscholar.org/10.1016/bs.aivir.2016.08.004">link</td></tr></table>>,label=3,penwidth=1.5]
-	bat->horse[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6849485/pdf/">link</td></tr> </table>>,label=1,penwith=0.5]
-	bat->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc5394239/pdf/">link</td></tr> 
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7149753/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7080179/pdf/">link</td></tr></table>>,label=3,penwidth=2.6]
+	bat->camels[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6880172/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	bat->dromedary[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7154514/pdf/">link</td></tr> 
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7180649/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7129017/pdf/">link</td></tr></table>>,label=3,penwidth=2.6]
+	bat->horse[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6849485/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	bat->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7217226/pdf/">link</td></tr> 
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc5394239/pdf/">link</td></tr>
+	<tr><td href="https://api.semanticscholar.org/v1/paper/e2aee146a962f1d07174aa3266f6fa180d20bf4a">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7103766/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7175879/pdf/">link</td></tr>
+	<tr><td href="https://api.semanticscholar.org/10.1101/2020.04.10.20056697">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7118423/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7087630/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7087236/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc5640221/pdf/">link</td></tr>
-	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6021449/pdf/">link</td></tr>
-	<tr><td href="https://api.semanticscholar.org/10.1016/j.femsre.2005.04.012">link</td></tr></table>>,label=4,penwidth=2.0]
-	bird->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc4124145/pdf/">link</td></tr> 
-	<tr><td href="https://api.semanticscholar.org/10.1533/9781845695576.2.83">link</td></tr>
-	<tr><td href="https://api.semanticscholar.org/10.1016/b978-0-12-381451-7.00006-2">link</td></tr>
-	<tr><td href="https://api.semanticscholar.org/10.1016/b978-0-323-37506-1.00004-0">link</td></tr>
-	<tr><td href="https://api.semanticscholar.org/10.1016/j.femsre.2005.04.012">link</td></tr></table>>,label=5,penwidth=2.5]
-	bird->pig[taillabel=<<table> <tr><td href="https://api.semanticscholar.org/10.1016/j.virusres.2016.05.028">link</td></tr> </table>>,label=1,penwith=0.5]
-	bovine->canine[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7089282/pdf/">link</td></tr> </table>>,label=1,penwith=0.5]
-	camel->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc4809235/pdf/">link</td></tr> 
-	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6448012/pdf/">link</td></tr>
+	<tr><td href="https://api.semanticscholar.org/v1/paper/f84886d52a2dc934793dbaf2272f9a16c8da275c">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7165814/pdf/">link</td></tr>
+	<tr><td href="https://api.semanticscholar.org/10.1101/2020.04.22.20075572">link</td></tr>
+	<tr><td href="">link</td></tr>
+	<tr><td href="">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7254014/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7179739/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7110368/pdf/">link</td></tr></table>>,label=18,penwidth=5.6]
+	bat->pangolin[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7202812/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	bat->racoon[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3119930/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	bird->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7152116/pdf/">link</td></tr> 
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7150074/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc4124145/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7152125/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7110368/pdf/">link</td></tr></table>>,label=5,penwidth=3.0]
+	bird->pig[taillabel=<<table> <tr><td href="https://api.semanticscholar.org/10.1093/molbev/msaa117">link</td></tr> 
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6803248/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7114555/pdf/">link</td></tr></table>>,label=3,penwidth=2.6]
+	bovine->canine[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7089282/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	camel->human[taillabel=<<table> <tr><td href="https://api.semanticscholar.org/10.1101/2020.04.06.20055327">link</td></tr> 
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6257029/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc4809235/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7087575/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6723642/pdf/">link</td></tr>
-	<tr><td href="https://api.semanticscholar.org/10.1016/b978-0-12-800838-6.00021-7">link</td></tr>
-	<tr><td href="https://api.semanticscholar.org/10.1016/j.ijheh.2020.113490">link</td></tr>
-	<tr><td href="https://api.semanticscholar.org/10.1016/j.chom.2020.02.001">link</td></tr>
-	<tr><td href="https://api.semanticscholar.org/10.1016/b978-0-12-819400-3.00008-9">link</td></tr>
+	<tr><td href="https://api.semanticscholar.org/10.1101/2020.05.24.113175">link</td></tr>
+	<tr><td href="">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7267182/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7232928/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7103766/pdf/">link</td></tr>
+	<tr><td href="https://api.semanticscholar.org/v1/paper/a18236e9c75536c022502b9a9d0efdc6b0a3f0c2">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7149753/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7129563/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7087630/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7087236/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7252187/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7198075/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7157479/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7148737/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7165814/pdf/">link</td></tr>
 	<tr><td href="https://api.semanticscholar.org/10.1101/2019.12.18.881391">link</td></tr>
-	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6362578/pdf/">link</td></tr>
-	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6505341/pdf/">link</td></tr></table>>,label=10,penwidth=5.0]
-	camel->horse[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc5709570/pdf/">link</td></tr> </table>>,label=1,penwith=0.5]
-	cat->bat[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2831534/pdf/">link</td></tr> </table>>,label=1,penwith=0.5]
-	cat->dog[taillabel=<<table> <tr><td href="https://api.semanticscholar.org/10.1016/b978-1-4377-0660-4.00030-2">link</td></tr> </table>>,label=1,penwith=0.5]
-	cat->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3647518/pdf/">link</td></tr> 
-	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3647518/pdf/">link</td></tr></table>>,label=2,penwidth=1.0]
-	cattle->dog[taillabel=<<table> <tr><td href="https://api.semanticscholar.org/10.1016/j.vetmic.2008.06.007">link</td></tr> </table>>,label=1,penwith=0.5]
-	chimpanzee->human[taillabel=<<table> <tr><td href="https://api.semanticscholar.org/10.1016/s0140-6736(06)68036-7">link</td></tr> </table>>,label=1,penwith=0.5]
-	civet->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3630921/pdf/">link</td></tr> 
-	<tr><td href="https://api.semanticscholar.org/10.1016/j.meegid.2018.04.031">link</td></tr>
-	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2446986/pdf/">link</td></tr>
-	<tr><td href="https://api.semanticscholar.org/10.1016/bs.aivir.2016.08.004">link</td></tr>
-	<tr><td href="https://api.semanticscholar.org/10.1016/j.chom.2020.02.001">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6448012/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7162632/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6362578/pdf/">link</td></tr></table>>,label=24,penwidth=6.8]
+	camel->camel[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6505341/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	cat->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7198075/pdf/">link</td></tr> 
+	<tr><td href="https://api.semanticscholar.org/v1/paper/e2aee146a962f1d07174aa3266f6fa180d20bf4a">link</td></tr></table>>,label=2,penwidth=2.4]
+	cattle->dog[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7117484/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	civet->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2831534/pdf/">link</td></tr> 
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3647518/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3630921/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7260574/pdf/">link</td></tr>
+	<tr><td href="https://api.semanticscholar.org/10.1101/2020.04.11.20054643">link</td></tr>
+	<tr><td href="https://api.semanticscholar.org/10.1101/2020.05.24.113175">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7106130/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7232928/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7163996/pdf/">link</td></tr>
+	<tr><td href="https://api.semanticscholar.org/10.1128/jvi.00442-08">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7081895/pdf/">link</td></tr>
+	<tr><td href="https://api.semanticscholar.org/v1/paper/a18236e9c75536c022502b9a9d0efdc6b0a3f0c2">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7112277/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7193031/pdf/">link</td></tr>
+	<tr><td href="https://api.semanticscholar.org/10.1101/2020.04.06.20055327">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7154514/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3119930/pdf/">link</td></tr>
+	<tr><td href="https://api.semanticscholar.org/v1/paper/4bc7c77f00f5b46fea1d6ef83c44d7a58b687eef">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6021449/pdf/">link</td></tr>
-	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2572002/pdf/">link</td></tr></table>>,label=7,penwidth=3.5]
-	cow->horse[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc5709570/pdf/">link</td></tr> </table>>,label=1,penwith=0.5]
-	deer->snail[taillabel=<<table> <tr><td href="https://api.semanticscholar.org/10.1016/j.cvfa.2009.02.006">link</td></tr> </table>>,label=1,penwith=0.5]
-	dog->human[taillabel=<<table> <tr><td href="https://api.semanticscholar.org/10.1016/b978-1-4377-0795-3.00017-x">link</td></tr> 
-	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6797873/pdf/">link</td></tr></table>>,label=2,penwidth=1.0]
-	fox->human[taillabel=<<table> <tr><td href="https://api.semanticscholar.org/10.1016/j.femsre.2005.04.012">link</td></tr> </table>>,label=1,penwith=0.5]
-	ground_squirrel->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6797873/pdf/">link</td></tr> </table>>,label=1,penwith=0.5]
-	horse->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6849485/pdf/">link</td></tr> </table>>,label=1,penwith=0.5]
-	human->bat[taillabel=<<table> <tr><td href="https://api.semanticscholar.org/10.1101/2020.02.18.954628">link</td></tr> 
-	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3165994/pdf/">link</td></tr></table>>,label=2,penwidth=1.0]
-	human->camel[taillabel=<<table> <tr><td href="https://api.semanticscholar.org/10.1016/j.tim.2015.12.013">link</td></tr> </table>>,label=1,penwith=0.5]
-	human->dog[taillabel=<<table> <tr><td href="https://api.semanticscholar.org/10.1016/b978-1-4377-0795-3.00017-x">link</td></tr> </table>>,label=1,penwith=0.5]
-	human->pig[taillabel=<<table> <tr><td href="https://api.semanticscholar.org/10.1016/j.febslet.2005.07.075">link</td></tr> </table>>,label=1,penwith=0.5]
-	human->swine[taillabel=<<table> <tr><td href="https://api.semanticscholar.org/10.1016/j.tim.2015.12.013">link</td></tr> </table>>,label=1,penwith=0.5]
-	mosquito->cat[taillabel=<<table> <tr><td href="https://api.semanticscholar.org/10.1016/b978-1-4377-0660-4.00030-2">link</td></tr> </table>>,label=1,penwith=0.5]
-	mosquito->human[taillabel=<<table> <tr><td href="https://api.semanticscholar.org/10.1016/j.cmi.2017.10.035">link</td></tr> 
-	<tr><td href="https://api.semanticscholar.org/10.1016/j.femsre.2005.04.012">link</td></tr></table>>,label=2,penwidth=1.0]
-	rat->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6797873/pdf/">link</td></tr> </table>>,label=1,penwith=0.5]
-	rodent->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6797873/pdf/">link</td></tr> 
-	<tr><td href="https://api.semanticscholar.org/10.1016/j.femsre.2005.04.012">link</td></tr></table>>,label=2,penwidth=1.0]
-	sandfly->human[taillabel=<<table> <tr><td href="https://api.semanticscholar.org/10.1016/j.femsre.2005.04.012">link</td></tr> </table>>,label=1,penwith=0.5]
-	snail->camelid[taillabel=<<table> <tr><td href="https://api.semanticscholar.org/10.1016/j.cvfa.2009.02.006">link</td></tr> </table>>,label=1,penwith=0.5]
-	tick->human[taillabel=<<table> <tr><td href="https://api.semanticscholar.org/10.1016/j.cmi.2017.10.035">link</td></tr> 
-	<tr><td href="https://api.semanticscholar.org/10.1016/j.femsre.2005.04.012">link</td></tr></table>>,label=2,penwidth=1.0]
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2572002/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7120285/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7129017/pdf/">link</td></tr></table>>,label=22,penwidth=6.4]
+	cow->horse[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc5709570/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	deer->camel[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7126047/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	deer->snail[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7126047/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	dog->flea[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6797873/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	dog->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7152112/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	dromedary->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7260574/pdf/">link</td></tr> 
+	<tr><td href="https://api.semanticscholar.org/v1/paper/e2aee146a962f1d07174aa3266f6fa180d20bf4a">link</td></tr>
+	<tr><td href="https://api.semanticscholar.org/10.1101/2020.04.11.20054643">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7110516/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7193031/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7154514/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7180649/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7129017/pdf/">link</td></tr></table>>,label=8,penwidth=3.6]
+	fix->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7110368/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	flea->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6797873/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	horse->bat[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6849485/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	horse->camel[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc5709570/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	human->bat[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7077191/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	human->camel[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7126747/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	human->chimpanzee[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7138062/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	human->civet[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7121850/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	human->mosquito[taillabel=<<table> <tr><td href="https://api.semanticscholar.org/10.1101/2020.04.11.20061143">link</td></tr> </table>>,label=1,penwith=0.2]
+	human->pig[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7118731/pdf/">link</td></tr> 
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7121850/pdf/">link</td></tr></table>>,label=2,penwidth=2.4]
+	human->swine[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7126747/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	midges->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7129920/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	mosquito->cat[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7158197/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	mosquito->dog[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7158197/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	mosquitoes->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7110368/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	mosquitos->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7129920/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	pangolin->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7217226/pdf/">link</td></tr> 
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7202812/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7193031/pdf/">link</td></tr></table>>,label=3,penwidth=2.6]
+	pig->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6880172/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	racoon->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3119930/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	rat->flea[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6797873/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	rodent->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc1533478/pdf/">link</td></tr> 
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7110368/pdf/">link</td></tr></table>>,label=2,penwidth=2.4]
+	sandflies->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7110368/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	snail->camel[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7126047/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	snail->pig[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7126047/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	squirrel->flea[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6797873/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	ticks->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7129920/pdf/">link</td></tr> 
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7110368/pdf/">link</td></tr></table>>,label=2,penwidth=2.4]
 }
