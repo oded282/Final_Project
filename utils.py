@@ -66,8 +66,22 @@ def arrange_animals_list(animals):
 
     return all_animal_set
 
+def remove_nodes_from_svg_file():
 
-def sort_file(file_name):
+    write_to_file = []
+    prev_line = ""
+    with open('graphviz.svg','r') as file:
+        for line in file:
+            if line.startswith('<polygon fill="none" stroke="#000000" points=') and prev_line == '</g>\n':
+                continue
+
+            write_to_file.append(line)
+            prev_line = line
+
+    with open('graph.svg','w') as file:
+        file.write("\n".join(write_to_file))
+        
+ def sort_file(file_name):
     data = []
     with open(file_name, "r", encoding="utf8") as file:
         for line in file:
@@ -76,3 +90,12 @@ def sort_file(file_name):
     data.sort()
     with open("sorted_file", "w", encoding="utf8") as file:
         file.write("".join(data))
+
+
+def main():
+    remove_nodes_from_svg_file()
+
+
+if __name__ == "__main__":
+    main()
+
