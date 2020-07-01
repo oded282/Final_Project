@@ -117,9 +117,30 @@ def create_id2para(file_name):
             paragraph = temp[3]
             if pair not in old_pairs:
                 pair_counter += 1
+                old_pairs.append(pair)
             id2paragraph.update({"a_edge" + str(pair_counter) + "_" + str(index): paragraph})
-            old_pairs.append(pair)
+
     return id2paragraph
+
+
+def bind_ids(id2paragraph, ids):
+    keys = id2paragraph.keys()
+    new_dic = {}
+    pass_list = []
+    for key in id2paragraph.keys():
+
+        if key in pass_list:
+            continue
+
+        pattern1 = re.compile(r'a_edge\d+_')
+        result1 = [i for i in ids if i.startswith(pattern1.findall(key)[0])]
+        result2 = [i for i in id2paragraph.keys() if i.startswith(pattern1.findall(key)[0])]
+        for id_bad, id_good in zip(result2, result1):
+            new_dic.update({id_good: id2paragraph[id_bad]})
+            pass_list.append(id_bad)
+
+    return new_dic
+
 
 def main():
     # id2paragraph = {
@@ -133,7 +154,9 @@ def main():
     #     "a_edge2_7": "ssssssssssssssssssssssssssssssssssssssssssssssssss sssssssssssssss dk                   kdddddddddddd kddddddddddddddddddddddddddddddddddddddddddddd",
     # }
     # create_divs(id2paragraph)
-    create_id2para("sorted_file")
+    id2paragraph = create_id2para("sorted_file")
+    #bind_ids(id2paragraph, id2paragraph.keys())
+
 
 if __name__ == "__main__":
     main()
