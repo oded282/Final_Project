@@ -1,0 +1,2483 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1415pt" height="1295pt" viewBox="0.00 0.00 1414.81 1295.29">
+         <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1291.2911)">
+
+<title>prof</title>
+
+<!-- alpaca -->
+
+<g id="node1" class="node">
+
+<title>alpaca</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="1057.8623" cy="-955.6279" rx="35.8921" ry="18"/>
+
+<text text-anchor="middle" x="1057.8623" y="-951.4279" font-family="Times,serif" font-size="14.00" fill="#000000">alpaca</text>
+
+</g>
+
+<!-- bat -->
+
+<g id="node2" class="node">
+
+<title>bat</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="1074.8623" cy="-866.8279" rx="27" ry="18"/>
+
+<text text-anchor="middle" x="1074.8623" y="-862.6279" font-family="Times,serif" font-size="14.00" fill="#000000">bat</text>
+
+</g>
+
+<!-- alpaca&#45;&gt;bat -->
+
+<g id="edge1" class="edge">
+
+<title>alpaca-&gt;bat</title>
+
+<path fill="none" stroke="#000000" d="M1053.5591,-937.7473C1051.7913,-927.3871 1050.7913,-914.1871 1053.8623,-902.8279 1054.8454,-899.1914 1056.2972,-895.5451 1057.9864,-892.0433"/>
+
+<polygon fill="#000000" stroke="#000000" points="1061.0891,-893.6647 1062.8533,-883.2177 1054.9594,-890.2844 1061.0891,-893.6647"/>
+
+<text text-anchor="middle" x="1057.3623" y="-907.0279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge1_0"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7192909/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="1024.0591,-912.7473 1024.0591,-934.7473 1051.0591,-934.7473 1051.0591,-912.7473 1024.0591,-912.7473"/>
+
+<text text-anchor="start" x="1026.6685" y="-919.1473" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge1_0" class="icon" pointer-events="all"><circle cx="1064.7205" cy="-922.2149" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1064.7205" cy="-926.2149" r="0.75" fill="gold"/><rect x="1064.2205" y="-924.2149" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- bat&#45;&gt;alpaca -->
+
+<g id="edge3" class="edge">
+
+<title>bat-&gt;alpaca</title>
+
+<path fill="none" stroke="#000000" d="M1071.4272,-884.7712C1069.078,-897.042 1065.9165,-913.5566 1063.2365,-927.5553"/>
+
+<polygon fill="#000000" stroke="#000000" points="1059.7453,-927.1781 1061.3025,-937.6579 1066.6204,-928.4944 1059.7453,-927.1781"/>
+
+<text text-anchor="middle" x="1072.3623" y="-907.0279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge3_1"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7192909/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="1074.9272,-887.7712 1074.9272,-909.7712 1101.9272,-909.7712 1101.9272,-887.7712 1074.9272,-887.7712"/>
+
+<text text-anchor="start" x="1077.5366" y="-894.1712" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge3_1" class="icon" pointer-events="all"><circle cx="1115.5885999999998" cy="-897.2388" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1115.5885999999998" cy="-901.2388" r="0.75" fill="gold"/><rect x="1115.0885999999998" y="-899.2388" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- civet -->
+
+<g id="node3" class="node">
+
+<title>civet</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="1026.8623" cy="-600.4279" rx="29.6127" ry="18"/>
+
+<text text-anchor="middle" x="1026.8623" y="-596.2279" font-family="Times,serif" font-size="14.00" fill="#000000">civet</text>
+
+</g>
+
+<!-- bat&#45;&gt;civet -->
+
+<g id="edge2" class="edge">
+
+<title>bat-&gt;civet</title>
+
+<path fill="none" stroke="#000000" stroke-width="4.2" d="M1096.5335,-855.7956C1102.6452,-853.1064 1109.3944,-850.5199 1115.8623,-848.8279 1238.8904,-816.6436 1457.3671,-866.5212 1387.8623,-760.0279 1302.4148,-629.1076 1208.3977,-682.6544 1065.8623,-618.4279 1064.0266,-617.6007 1062.1443,-616.7478 1060.2456,-615.8838"/>
+
+<polygon fill="#000000" stroke="#000000" stroke-width="4.2" points="1061.3783,-612.3605 1050.7561,-611.5388 1058.3184,-619.0433 1061.3783,-612.3605"/>
+
+<text text-anchor="middle" x="1380.8623" y="-729.4279" font-family="Times,serif" font-size="14.00" fill="#000000">11</text>
+
+<g id="a_edge2_2"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2831534/pdf/" xlink:title="11">
+
+<polygon fill="none" stroke="#000000" points="1100.0335,-1098.7956 1100.0335,-1120.7956 1127.0335,-1120.7956 1127.0335,-1098.7956 1100.0335,-1098.7956"/>
+
+<text text-anchor="start" x="1102.6429" y="-1105.1956" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge2_2" class="icon" pointer-events="all"><circle cx="1140.6949" cy="-1108.2632" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1140.6949" cy="-1112.2632" r="0.75" fill="gold"/><rect x="1140.1949" y="-1110.2632" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge2_3"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6880172/pdf/" xlink:title="11">
+
+<polygon fill="none" stroke="#000000" points="1100.0335,-1074.7956 1100.0335,-1096.7956 1127.0335,-1096.7956 1127.0335,-1074.7956 1100.0335,-1074.7956"/>
+
+<text text-anchor="start" x="1102.6429" y="-1081.1956" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge2_3" class="icon" pointer-events="all"><circle cx="1140.6949" cy="-1084.2632" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1140.6949" cy="-1088.2632" r="0.75" fill="gold"/><rect x="1140.1949" y="-1086.2632" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge2_4"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7106130/pdf/" xlink:title="11">
+
+<polygon fill="none" stroke="#000000" points="1100.0335,-1050.7956 1100.0335,-1072.7956 1127.0335,-1072.7956 1127.0335,-1050.7956 1100.0335,-1050.7956"/>
+
+<text text-anchor="start" x="1102.6429" y="-1057.1956" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge2_4" class="icon" pointer-events="all"><circle cx="1140.6949" cy="-1060.2632" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1140.6949" cy="-1064.2632" r="0.75" fill="gold"/><rect x="1140.1949" y="-1062.2632" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge2_5"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7163996/pdf/" xlink:title="11">
+
+<polygon fill="none" stroke="#000000" points="1100.0335,-1026.7956 1100.0335,-1048.7956 1127.0335,-1048.7956 1127.0335,-1026.7956 1100.0335,-1026.7956"/>
+
+<text text-anchor="start" x="1102.6429" y="-1033.1956" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge2_5" class="icon" pointer-events="all"><circle cx="1140.6949" cy="-1036.2632" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1140.6949" cy="-1040.2632" r="0.75" fill="gold"/><rect x="1140.1949" y="-1038.2632" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge2_6"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7112277/pdf/" xlink:title="11">
+
+<polygon fill="none" stroke="#000000" points="1100.0335,-1002.7956 1100.0335,-1024.7956 1127.0335,-1024.7956 1127.0335,-1002.7956 1100.0335,-1002.7956"/>
+
+<text text-anchor="start" x="1102.6429" y="-1009.1956" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge2_6" class="icon" pointer-events="all"><circle cx="1140.6949" cy="-1012.2632" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1140.6949" cy="-1016.2632" r="0.75" fill="gold"/><rect x="1140.1949" y="-1014.2632" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge2_7"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7154514/pdf/" xlink:title="11">
+
+<polygon fill="none" stroke="#000000" points="1100.0335,-978.7956 1100.0335,-1000.7956 1127.0335,-1000.7956 1127.0335,-978.7956 1100.0335,-978.7956"/>
+
+<text text-anchor="start" x="1102.6429" y="-985.1956" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge2_7" class="icon" pointer-events="all"><circle cx="1140.6949" cy="-988.2632" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1140.6949" cy="-992.2632" r="0.75" fill="gold"/><rect x="1140.1949" y="-990.2632" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge2_8"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3119930/pdf/" xlink:title="11">
+
+<polygon fill="none" stroke="#000000" points="1100.0335,-954.7956 1100.0335,-976.7956 1127.0335,-976.7956 1127.0335,-954.7956 1100.0335,-954.7956"/>
+
+<text text-anchor="start" x="1102.6429" y="-961.1956" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge2_8" class="icon" pointer-events="all"><circle cx="1140.6949" cy="-964.2632" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1140.6949" cy="-968.2632" r="0.75" fill="gold"/><rect x="1140.1949" y="-966.2632" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge2_9"><a xlink:href="https://api.semanticscholar.org/v1/paper/4bc7c77f00f5b46fea1d6ef83c44d7a58b687eef" xlink:title="11">
+
+<polygon fill="none" stroke="#000000" points="1100.0335,-930.7956 1100.0335,-952.7956 1127.0335,-952.7956 1127.0335,-930.7956 1100.0335,-930.7956"/>
+
+<text text-anchor="start" x="1102.6429" y="-937.1956" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge2_9" class="icon" pointer-events="all"><circle cx="1140.6949" cy="-940.2632" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1140.6949" cy="-944.2632" r="0.75" fill="gold"/><rect x="1140.1949" y="-942.2632" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge2_10"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3647518/pdf/" xlink:title="11">
+
+<polygon fill="none" stroke="#000000" points="1100.0335,-906.7956 1100.0335,-928.7956 1127.0335,-928.7956 1127.0335,-906.7956 1100.0335,-906.7956"/>
+
+<text text-anchor="start" x="1102.6429" y="-913.1956" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge2_10" class="icon" pointer-events="all"><circle cx="1140.6949" cy="-916.2632" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1140.6949" cy="-920.2632" r="0.75" fill="gold"/><rect x="1140.1949" y="-918.2632" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge2_11"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7180649/pdf/" xlink:title="11">
+
+<polygon fill="none" stroke="#000000" points="1100.0335,-882.7956 1100.0335,-904.7956 1127.0335,-904.7956 1127.0335,-882.7956 1100.0335,-882.7956"/>
+
+<text text-anchor="start" x="1102.6429" y="-889.1956" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge2_11" class="icon" pointer-events="all"><circle cx="1140.6949" cy="-892.2632" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1140.6949" cy="-896.2632" r="0.75" fill="gold"/><rect x="1140.1949" y="-894.2632" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge2_12"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7129017/pdf/" xlink:title="11">
+
+<polygon fill="none" stroke="#000000" points="1100.0335,-858.7956 1100.0335,-880.7956 1127.0335,-880.7956 1127.0335,-858.7956 1100.0335,-858.7956"/>
+
+<text text-anchor="start" x="1102.6429" y="-865.1956" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge2_12" class="icon" pointer-events="all"><circle cx="1140.6949" cy="-868.2632" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1140.6949" cy="-872.2632" r="0.75" fill="gold"/><rect x="1140.1949" y="-870.2632" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- camel -->
+
+<g id="node4" class="node">
+
+<title>camel</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="180.8623" cy="-600.4279" rx="34.1852" ry="18"/>
+
+<text text-anchor="middle" x="180.8623" y="-596.2279" font-family="Times,serif" font-size="14.00" fill="#000000">camel</text>
+
+</g>
+
+<!-- bat&#45;&gt;camel -->
+
+<g id="edge4" class="edge">
+
+<title>bat-&gt;camel</title>
+
+<path fill="none" stroke="#000000" stroke-width="2.8" d="M1047.7563,-865.8155C896.9353,-860.0552 166.7892,-830.45 134.8623,-796.0279 123.9817,-784.297 132.6247,-775.8707 134.8623,-760.0279 138.4809,-734.407 159.6322,-666.2743 171.9561,-627.8248"/>
+
+<polygon fill="#000000" stroke="#000000" stroke-width="2.8" points="175.2961,-628.8712 175.0297,-618.2797 168.633,-626.7256 175.2961,-628.8712"/>
+
+<text text-anchor="middle" x="146.3623" y="-729.4279" font-family="Times,serif" font-size="14.00" fill="#000000">4</text>
+
+<g id="a_edge4_13"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6880172/pdf/" xlink:title="4">
+
+<polygon fill="none" stroke="#000000" points="1018.2563,-840.8155 1018.2563,-862.8155 1045.2563,-862.8155 1045.2563,-840.8155 1018.2563,-840.8155"/>
+
+<text text-anchor="start" x="1020.8657" y="-847.2155" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge4_13" class="icon" pointer-events="all"><circle cx="1058.9177" cy="-850.2831" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1058.9177" cy="-854.2831" r="0.75" fill="gold"/><rect x="1058.4177" y="-852.2831" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge4_14"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6818114/pdf/" xlink:title="4">
+
+<polygon fill="none" stroke="#000000" points="1018.2563,-816.8155 1018.2563,-838.8155 1045.2563,-838.8155 1045.2563,-816.8155 1018.2563,-816.8155"/>
+
+<text text-anchor="start" x="1020.8657" y="-823.2155" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge4_14" class="icon" pointer-events="all"><circle cx="1058.9177" cy="-826.2831" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1058.9177" cy="-830.2831" r="0.75" fill="gold"/><rect x="1058.4177" y="-828.2831" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge4_15"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7149753/pdf/" xlink:title="4">
+
+<polygon fill="none" stroke="#000000" points="1018.2563,-792.8155 1018.2563,-814.8155 1045.2563,-814.8155 1045.2563,-792.8155 1018.2563,-792.8155"/>
+
+<text text-anchor="start" x="1020.8657" y="-799.2155" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge4_15" class="icon" pointer-events="all"><circle cx="1058.9177" cy="-802.2831" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1058.9177" cy="-806.2831" r="0.75" fill="gold"/><rect x="1058.4177" y="-804.2831" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge4_16"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7080179/pdf/" xlink:title="4">
+
+<polygon fill="none" stroke="#000000" points="1018.2563,-768.8155 1018.2563,-790.8155 1045.2563,-790.8155 1045.2563,-768.8155 1018.2563,-768.8155"/>
+
+<text text-anchor="start" x="1020.8657" y="-775.2155" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge4_16" class="icon" pointer-events="all"><circle cx="1058.9177" cy="-778.2831" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1058.9177" cy="-782.2831" r="0.75" fill="gold"/><rect x="1058.4177" y="-780.2831" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- dromedary -->
+
+<g id="node5" class="node">
+
+<title>dromedary</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="1325.8623" cy="-778.0279" rx="52.7315" ry="18"/>
+
+<text text-anchor="middle" x="1325.8623" y="-773.8279" font-family="Times,serif" font-size="14.00" fill="#000000">dromedary</text>
+
+</g>
+
+<!-- bat&#45;&gt;dromedary -->
+
+<g id="edge5" class="edge">
+
+<title>bat-&gt;dromedary</title>
+
+<path fill="none" stroke="#000000" stroke-width="2.6" d="M1096.5617,-855.9008C1102.6735,-853.212 1109.4158,-850.5994 1115.8623,-848.8279 1178.9054,-831.5037 1201.803,-856.6631 1261.8623,-830.8279 1277.1287,-824.2608 1291.6339,-812.8886 1302.9632,-802.3763"/>
+
+<polygon fill="#000000" stroke="#000000" stroke-width="2.6" points="1305.5175,-804.775 1310.2694,-795.3055 1300.6494,-799.7448 1305.5175,-804.775"/>
+
+<text text-anchor="middle" x="1291.3623" y="-818.2279" font-family="Times,serif" font-size="14.00" fill="#000000">3</text>
+
+<g id="a_edge5_17"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7154514/pdf/" xlink:title="3">
+
+<polygon fill="none" stroke="#000000" points="1100.0617,-830.9008 1100.0617,-852.9008 1127.0617,-852.9008 1127.0617,-830.9008 1100.0617,-830.9008"/>
+
+<text text-anchor="start" x="1102.6711" y="-837.3008" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge5_17" class="icon" pointer-events="all"><circle cx="1140.7231" cy="-840.3684" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1140.7231" cy="-844.3684" r="0.75" fill="gold"/><rect x="1140.2231" y="-842.3684" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge5_18"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7180649/pdf/" xlink:title="3">
+
+<polygon fill="none" stroke="#000000" points="1100.0617,-806.9008 1100.0617,-828.9008 1127.0617,-828.9008 1127.0617,-806.9008 1100.0617,-806.9008"/>
+
+<text text-anchor="start" x="1102.6711" y="-813.3008" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge5_18" class="icon" pointer-events="all"><circle cx="1140.7231" cy="-816.3684" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1140.7231" cy="-820.3684" r="0.75" fill="gold"/><rect x="1140.2231" y="-818.3684" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge5_19"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7129017/pdf/" xlink:title="3">
+
+<polygon fill="none" stroke="#000000" points="1100.0617,-782.9008 1100.0617,-804.9008 1127.0617,-804.9008 1127.0617,-782.9008 1100.0617,-782.9008"/>
+
+<text text-anchor="start" x="1102.6711" y="-789.3008" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge5_19" class="icon" pointer-events="all"><circle cx="1140.7231" cy="-792.3684" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1140.7231" cy="-796.3684" r="0.75" fill="gold"/><rect x="1140.2231" y="-794.3684" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- horse -->
+
+<g id="node6" class="node">
+
+<title>horse</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="55.8623" cy="-778.0279" rx="31.9012" ry="18"/>
+
+<text text-anchor="middle" x="55.8623" y="-773.8279" font-family="Times,serif" font-size="14.00" fill="#000000">horse</text>
+
+</g>
+
+<!-- bat&#45;&gt;horse -->
+
+<g id="edge6" class="edge">
+
+<title>bat-&gt;horse</title>
+
+<path fill="none" stroke="#000000" d="M1047.7428,-866.4754C894.3037,-864.4005 140.3087,-853.098 96.8623,-830.8279 85.5192,-825.0136 76.3626,-814.47 69.6042,-804.3253"/>
+
+<polygon fill="#000000" stroke="#000000" points="72.4942,-802.3426 64.2876,-795.6417 66.5243,-805.9977 72.4942,-802.3426"/>
+
+<text text-anchor="middle" x="100.3623" y="-818.2279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge6_20"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6849485/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="1018.2428,-869.4754 1018.2428,-891.4754 1045.2428,-891.4754 1045.2428,-869.4754 1018.2428,-869.4754"/>
+
+<text text-anchor="start" x="1020.8522" y="-875.8754" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge6_20" class="icon" pointer-events="all"><circle cx="1058.9042" cy="-878.943" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1058.9042" cy="-882.943" r="0.75" fill="gold"/><rect x="1058.4042" y="-880.943" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- human -->
+
+<g id="node7" class="node">
+
+<title>human</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="839.8623" cy="-689.2279" rx="37.1424" ry="18"/>
+
+<text text-anchor="middle" x="839.8623" y="-685.0279" font-family="Times,serif" font-size="14.00" fill="#000000">human</text>
+
+</g>
+
+<!-- bat&#45;&gt;human -->
+
+<g id="edge7" class="edge">
+
+<title>bat-&gt;human</title>
+
+<path fill="none" stroke="#000000" stroke-width="5.6" d="M1059.972,-851.2911C1032.4251,-822.5829 975.8437,-763.792 970.8623,-760.0279 941.5258,-737.8609 904.3506,-718.4709 877.1023,-705.6147"/>
+
+<polygon fill="#000000" stroke="#000000" stroke-width="5.6" points="879.0409,-701.1124 867.9073,-701.3459 874.9142,-710.0013 879.0409,-701.1124"/>
+
+<text text-anchor="middle" x="1012.8623" y="-773.8279" font-family="Times,serif" font-size="14.00" fill="#000000">18</text>
+
+<g id="a_edge7_21"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7217226/pdf/" xlink:title="18">
+
+<polygon fill="none" stroke="#000000" points="1063.472,-1262.2911 1063.472,-1284.2911 1090.472,-1284.2911 1090.472,-1262.2911 1063.472,-1262.2911"/>
+
+<text text-anchor="start" x="1066.0814" y="-1268.6911" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge7_21" class="icon" pointer-events="all"><circle cx="1104.1334" cy="-1271.7587" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1104.1334" cy="-1275.7587" r="0.75" fill="gold"/><rect x="1103.6334" y="-1273.7587" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge7_22"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc5394239/pdf/" xlink:title="18">
+
+<polygon fill="none" stroke="#000000" points="1063.472,-1238.2911 1063.472,-1260.2911 1090.472,-1260.2911 1090.472,-1238.2911 1063.472,-1238.2911"/>
+
+<text text-anchor="start" x="1066.0814" y="-1244.6911" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge7_22" class="icon" pointer-events="all"><circle cx="1104.1334" cy="-1247.7587" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1104.1334" cy="-1251.7587" r="0.75" fill="gold"/><rect x="1103.6334" y="-1249.7587" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge7_23"><a xlink:href="https://api.semanticscholar.org/v1/paper/e2aee146a962f1d07174aa3266f6fa180d20bf4a" xlink:title="18">
+
+<polygon fill="none" stroke="#000000" points="1063.472,-1214.2911 1063.472,-1236.2911 1090.472,-1236.2911 1090.472,-1214.2911 1063.472,-1214.2911"/>
+
+<text text-anchor="start" x="1066.0814" y="-1220.6911" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge7_23" class="icon" pointer-events="all"><circle cx="1104.1334" cy="-1223.7587" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1104.1334" cy="-1227.7587" r="0.75" fill="gold"/><rect x="1103.6334" y="-1225.7587" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge7_24"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7103766/pdf/" xlink:title="18">
+
+<polygon fill="none" stroke="#000000" points="1063.472,-1190.2911 1063.472,-1212.2911 1090.472,-1212.2911 1090.472,-1190.2911 1063.472,-1190.2911"/>
+
+<text text-anchor="start" x="1066.0814" y="-1196.6911" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge7_24" class="icon" pointer-events="all"><circle cx="1104.1334" cy="-1199.7587" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1104.1334" cy="-1203.7587" r="0.75" fill="gold"/><rect x="1103.6334" y="-1201.7587" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge7_25"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7175879/pdf/" xlink:title="18">
+
+<polygon fill="none" stroke="#000000" points="1063.472,-1166.2911 1063.472,-1188.2911 1090.472,-1188.2911 1090.472,-1166.2911 1063.472,-1166.2911"/>
+
+<text text-anchor="start" x="1066.0814" y="-1172.6911" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge7_25" class="icon" pointer-events="all"><circle cx="1104.1334" cy="-1175.7587" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1104.1334" cy="-1179.7587" r="0.75" fill="gold"/><rect x="1103.6334" y="-1177.7587" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge7_26"><a xlink:href="https://api.semanticscholar.org/10.1101/2020.04.10.20056697" xlink:title="18">
+
+<polygon fill="none" stroke="#000000" points="1063.472,-1142.2911 1063.472,-1164.2911 1090.472,-1164.2911 1090.472,-1142.2911 1063.472,-1142.2911"/>
+
+<text text-anchor="start" x="1066.0814" y="-1148.6911" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge7_26" class="icon" pointer-events="all"><circle cx="1104.1334" cy="-1151.7587" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1104.1334" cy="-1155.7587" r="0.75" fill="gold"/><rect x="1103.6334" y="-1153.7587" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge7_27"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7118423/pdf/" xlink:title="18">
+
+<polygon fill="none" stroke="#000000" points="1063.472,-1118.2911 1063.472,-1140.2911 1090.472,-1140.2911 1090.472,-1118.2911 1063.472,-1118.2911"/>
+
+<text text-anchor="start" x="1066.0814" y="-1124.6911" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge7_27" class="icon" pointer-events="all"><circle cx="1104.1334" cy="-1127.7587" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1104.1334" cy="-1131.7587" r="0.75" fill="gold"/><rect x="1103.6334" y="-1129.7587" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge7_28"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7087630/pdf/" xlink:title="18">
+
+<polygon fill="none" stroke="#000000" points="1063.472,-1094.2911 1063.472,-1116.2911 1090.472,-1116.2911 1090.472,-1094.2911 1063.472,-1094.2911"/>
+
+<text text-anchor="start" x="1066.0814" y="-1100.6911" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge7_28" class="icon" pointer-events="all"><circle cx="1104.1334" cy="-1103.7587" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1104.1334" cy="-1107.7587" r="0.75" fill="gold"/><rect x="1103.6334" y="-1105.7587" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge7_29"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7087236/pdf/" xlink:title="18">
+
+<polygon fill="none" stroke="#000000" points="1063.472,-1070.2911 1063.472,-1092.2911 1090.472,-1092.2911 1090.472,-1070.2911 1063.472,-1070.2911"/>
+
+<text text-anchor="start" x="1066.0814" y="-1076.6911" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge7_29" class="icon" pointer-events="all"><circle cx="1104.1334" cy="-1079.7587" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1104.1334" cy="-1083.7587" r="0.75" fill="gold"/><rect x="1103.6334" y="-1081.7587" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge7_30"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc5640221/pdf/" xlink:title="18">
+
+<polygon fill="none" stroke="#000000" points="1063.472,-1046.2911 1063.472,-1068.2911 1090.472,-1068.2911 1090.472,-1046.2911 1063.472,-1046.2911"/>
+
+<text text-anchor="start" x="1066.0814" y="-1052.6911" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge7_30" class="icon" pointer-events="all"><circle cx="1104.1334" cy="-1055.7587" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1104.1334" cy="-1059.7587" r="0.75" fill="gold"/><rect x="1103.6334" y="-1057.7587" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge7_31"><a xlink:href="https://api.semanticscholar.org/v1/paper/f84886d52a2dc934793dbaf2272f9a16c8da275c" xlink:title="18">
+
+<polygon fill="none" stroke="#000000" points="1063.472,-1022.2911 1063.472,-1044.2911 1090.472,-1044.2911 1090.472,-1022.2911 1063.472,-1022.2911"/>
+
+<text text-anchor="start" x="1066.0814" y="-1028.6911" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge7_31" class="icon" pointer-events="all"><circle cx="1104.1334" cy="-1031.7587" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1104.1334" cy="-1035.7587" r="0.75" fill="gold"/><rect x="1103.6334" y="-1033.7587" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge7_32"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7165814/pdf/" xlink:title="18">
+
+<polygon fill="none" stroke="#000000" points="1063.472,-998.2911 1063.472,-1020.2911 1090.472,-1020.2911 1090.472,-998.2911 1063.472,-998.2911"/>
+
+<text text-anchor="start" x="1066.0814" y="-1004.6911" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge7_32" class="icon" pointer-events="all"><circle cx="1104.1334" cy="-1007.7587" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1104.1334" cy="-1011.7587" r="0.75" fill="gold"/><rect x="1103.6334" y="-1009.7587" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge7_33"><a xlink:href="https://api.semanticscholar.org/10.1101/2020.04.22.20075572" xlink:title="18">
+
+<polygon fill="none" stroke="#000000" points="1063.472,-974.2911 1063.472,-996.2911 1090.472,-996.2911 1090.472,-974.2911 1063.472,-974.2911"/>
+
+<text text-anchor="start" x="1066.0814" y="-980.6911" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge7_33" class="icon" pointer-events="all"><circle cx="1104.1334" cy="-983.7587" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1104.1334" cy="-987.7587" r="0.75" fill="gold"/><rect x="1103.6334" y="-985.7587" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<text text-anchor="start" x="1066.0814" y="-956.6911" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<polygon fill="none" stroke="#000000" points="1063.472,-926.2911 1063.472,-948.2911 1090.472,-948.2911 1090.472,-926.2911 1063.472,-926.2911"/>
+
+<text text-anchor="start" x="1066.0814" y="-932.6911" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="a_edge7_36"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7254014/pdf/" xlink:title="18">
+
+<polygon fill="none" stroke="#000000" points="1063.472,-902.2911 1063.472,-924.2911 1090.472,-924.2911 1090.472,-902.2911 1063.472,-902.2911"/>
+
+<text text-anchor="start" x="1066.0814" y="-908.6911" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge7_36" class="icon" pointer-events="all"><circle cx="1104.1334" cy="-911.7587" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1104.1334" cy="-915.7587" r="0.75" fill="gold"/><rect x="1103.6334" y="-913.7587" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge7_37"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7179739/pdf/" xlink:title="18">
+
+<polygon fill="none" stroke="#000000" points="1063.472,-878.2911 1063.472,-900.2911 1090.472,-900.2911 1090.472,-878.2911 1063.472,-878.2911"/>
+
+<text text-anchor="start" x="1066.0814" y="-884.6911" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge7_37" class="icon" pointer-events="all"><circle cx="1104.1334" cy="-887.7587" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1104.1334" cy="-891.7587" r="0.75" fill="gold"/><rect x="1103.6334" y="-889.7587" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge7_38"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7110368/pdf/" xlink:title="18">
+
+<polygon fill="none" stroke="#000000" points="1063.472,-854.2911 1063.472,-876.2911 1090.472,-876.2911 1090.472,-854.2911 1063.472,-854.2911"/>
+
+<text text-anchor="start" x="1066.0814" y="-860.6911" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge7_38" class="icon" pointer-events="all"><circle cx="1104.1334" cy="-863.7587" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1104.1334" cy="-867.7587" r="0.75" fill="gold"/><rect x="1103.6334" y="-865.7587" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- pangolin -->
+
+<g id="node8" class="node">
+
+<title>pangolin</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="1074.8623" cy="-778.0279" rx="44.6665" ry="18"/>
+
+<text text-anchor="middle" x="1074.8623" y="-773.8279" font-family="Times,serif" font-size="14.00" fill="#000000">pangolin</text>
+
+</g>
+
+<!-- bat&#45;&gt;pangolin -->
+
+<g id="edge8" class="edge">
+
+<title>bat-&gt;pangolin</title>
+
+<path fill="none" stroke="#000000" d="M1074.8623,-848.4285C1074.8623,-836.3228 1074.8623,-820.2355 1074.8623,-806.4953"/>
+
+<polygon fill="#000000" stroke="#000000" points="1078.3624,-806.0999 1074.8623,-796.0999 1071.3624,-806.0999 1078.3624,-806.0999"/>
+
+<text text-anchor="middle" x="1078.3623" y="-818.2279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge8_39"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7202812/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="1061.8623,-823.4285 1061.8623,-845.4285 1088.8623,-845.4285 1088.8623,-823.4285 1061.8623,-823.4285"/>
+
+<text text-anchor="start" x="1064.4717" y="-829.8285" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge8_39" class="icon" pointer-events="all"><circle cx="1102.5237" cy="-832.8960999999999" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1102.5237" cy="-836.8960999999999" r="0.75" fill="gold"/><rect x="1102.0237" y="-834.8960999999999" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- racoon -->
+
+<g id="node9" class="node">
+
+<title>racoon</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="1174.8623" cy="-778.0279" rx="37.1213" ry="18"/>
+
+<text text-anchor="middle" x="1174.8623" y="-773.8279" font-family="Times,serif" font-size="14.00" fill="#000000">racoon</text>
+
+</g>
+
+<!-- bat&#45;&gt;racoon -->
+
+<g id="edge9" class="edge">
+
+<title>bat-&gt;racoon</title>
+
+<path fill="none" stroke="#000000" d="M1091.3752,-852.1644C1107.058,-838.2381 1130.8752,-817.0884 1149.0627,-800.9379"/>
+
+<polygon fill="#000000" stroke="#000000" points="1151.82,-803.1702 1156.9735,-793.9132 1147.1721,-797.936 1151.82,-803.1702"/>
+
+<text text-anchor="middle" x="1137.3623" y="-818.2279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge9_40"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3119930/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="1094.8752,-855.1644 1094.8752,-877.1644 1121.8752,-877.1644 1121.8752,-855.1644 1094.8752,-855.1644"/>
+
+<text text-anchor="start" x="1097.4846" y="-861.5644" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge9_40" class="icon" pointer-events="all"><circle cx="1135.5366" cy="-864.632" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1135.5366" cy="-868.632" r="0.75" fill="gold"/><rect x="1135.0366" y="-866.632" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- civet&#45;&gt;human -->
+
+<g id="edge16" class="edge">
+
+<title>civet-&gt;human</title>
+
+<path fill="none" stroke="#000000" stroke-width="6.4" d="M1015.8741,-617.3661C1007.3937,-629.1168 994.6362,-644.2192 979.8623,-653.2279 951.6188,-670.4498 915.344,-679.481 886.7962,-684.1903"/>
+
+<polygon fill="#000000" stroke="#000000" stroke-width="6.4" points="885.6985,-678.6929 876.6574,-685.737 887.3876,-689.7648 885.6985,-678.6929"/>
+
+<text text-anchor="middle" x="1006.8623" y="-640.6279" font-family="Times,serif" font-size="14.00" fill="#000000">22</text>
+
+<g id="a_edge16_41"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2831534/pdf/" xlink:title="22">
+
+<polygon fill="none" stroke="#000000" points="986.3741,-592.3661 986.3741,-614.3661 1013.3741,-614.3661 1013.3741,-592.3661 986.3741,-592.3661"/>
+
+<text text-anchor="start" x="988.9835" y="-598.7661" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge16_41" class="icon" pointer-events="all"><circle cx="1027.0355" cy="-601.8337" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1027.0355" cy="-605.8337" r="0.75" fill="gold"/><rect x="1026.5355" y="-603.8337" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge16_42"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3647518/pdf/" xlink:title="22">
+
+<polygon fill="none" stroke="#000000" points="986.3741,-568.3661 986.3741,-590.3661 1013.3741,-590.3661 1013.3741,-568.3661 986.3741,-568.3661"/>
+
+<text text-anchor="start" x="988.9835" y="-574.7661" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge16_42" class="icon" pointer-events="all"><circle cx="1027.0355" cy="-577.8337" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1027.0355" cy="-581.8337" r="0.75" fill="gold"/><rect x="1026.5355" y="-579.8337" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge16_43"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3630921/pdf/" xlink:title="22">
+
+<polygon fill="none" stroke="#000000" points="986.3741,-544.3661 986.3741,-566.3661 1013.3741,-566.3661 1013.3741,-544.3661 986.3741,-544.3661"/>
+
+<text text-anchor="start" x="988.9835" y="-550.7661" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge16_43" class="icon" pointer-events="all"><circle cx="1027.0355" cy="-553.8337" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1027.0355" cy="-557.8337" r="0.75" fill="gold"/><rect x="1026.5355" y="-555.8337" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge16_44"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7260574/pdf/" xlink:title="22">
+
+<polygon fill="none" stroke="#000000" points="986.3741,-520.3661 986.3741,-542.3661 1013.3741,-542.3661 1013.3741,-520.3661 986.3741,-520.3661"/>
+
+<text text-anchor="start" x="988.9835" y="-526.7661" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge16_44" class="icon" pointer-events="all"><circle cx="1027.0355" cy="-529.8337" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1027.0355" cy="-533.8337" r="0.75" fill="gold"/><rect x="1026.5355" y="-531.8337" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge16_45"><a xlink:href="https://api.semanticscholar.org/10.1101/2020.04.11.20054643" xlink:title="22">
+
+<polygon fill="none" stroke="#000000" points="986.3741,-496.3661 986.3741,-518.3661 1013.3741,-518.3661 1013.3741,-496.3661 986.3741,-496.3661"/>
+
+<text text-anchor="start" x="988.9835" y="-502.7661" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge16_45" class="icon" pointer-events="all"><circle cx="1027.0355" cy="-505.8337" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1027.0355" cy="-509.8337" r="0.75" fill="gold"/><rect x="1026.5355" y="-507.8337" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge16_46"><a xlink:href="https://api.semanticscholar.org/10.1101/2020.05.24.113175" xlink:title="22">
+
+<polygon fill="none" stroke="#000000" points="986.3741,-472.3661 986.3741,-494.3661 1013.3741,-494.3661 1013.3741,-472.3661 986.3741,-472.3661"/>
+
+<text text-anchor="start" x="988.9835" y="-478.7661" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge16_46" class="icon" pointer-events="all"><circle cx="1027.0355" cy="-481.8337" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1027.0355" cy="-485.8337" r="0.75" fill="gold"/><rect x="1026.5355" y="-483.8337" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge16_47"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7106130/pdf/" xlink:title="22">
+
+<polygon fill="none" stroke="#000000" points="986.3741,-448.3661 986.3741,-470.3661 1013.3741,-470.3661 1013.3741,-448.3661 986.3741,-448.3661"/>
+
+<text text-anchor="start" x="988.9835" y="-454.7661" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge16_47" class="icon" pointer-events="all"><circle cx="1027.0355" cy="-457.8337" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1027.0355" cy="-461.8337" r="0.75" fill="gold"/><rect x="1026.5355" y="-459.8337" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge16_48"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7232928/pdf/" xlink:title="22">
+
+<polygon fill="none" stroke="#000000" points="986.3741,-424.3661 986.3741,-446.3661 1013.3741,-446.3661 1013.3741,-424.3661 986.3741,-424.3661"/>
+
+<text text-anchor="start" x="988.9835" y="-430.7661" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge16_48" class="icon" pointer-events="all"><circle cx="1027.0355" cy="-433.8337" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1027.0355" cy="-437.8337" r="0.75" fill="gold"/><rect x="1026.5355" y="-435.8337" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge16_49"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7163996/pdf/" xlink:title="22">
+
+<polygon fill="none" stroke="#000000" points="986.3741,-400.3661 986.3741,-422.3661 1013.3741,-422.3661 1013.3741,-400.3661 986.3741,-400.3661"/>
+
+<text text-anchor="start" x="988.9835" y="-406.7661" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge16_49" class="icon" pointer-events="all"><circle cx="1027.0355" cy="-409.8337" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1027.0355" cy="-413.8337" r="0.75" fill="gold"/><rect x="1026.5355" y="-411.8337" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge16_50"><a xlink:href="https://api.semanticscholar.org/10.1128/jvi.00442-08" xlink:title="22">
+
+<polygon fill="none" stroke="#000000" points="986.3741,-376.3661 986.3741,-398.3661 1013.3741,-398.3661 1013.3741,-376.3661 986.3741,-376.3661"/>
+
+<text text-anchor="start" x="988.9835" y="-382.7661" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge16_50" class="icon" pointer-events="all"><circle cx="1027.0355" cy="-385.8337" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1027.0355" cy="-389.8337" r="0.75" fill="gold"/><rect x="1026.5355" y="-387.8337" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge16_51"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7081895/pdf/" xlink:title="22">
+
+<polygon fill="none" stroke="#000000" points="986.3741,-352.3661 986.3741,-374.3661 1013.3741,-374.3661 1013.3741,-352.3661 986.3741,-352.3661"/>
+
+<text text-anchor="start" x="988.9835" y="-358.7661" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge16_51" class="icon" pointer-events="all"><circle cx="1027.0355" cy="-361.8337" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1027.0355" cy="-365.8337" r="0.75" fill="gold"/><rect x="1026.5355" y="-363.8337" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge16_52"><a xlink:href="https://api.semanticscholar.org/v1/paper/a18236e9c75536c022502b9a9d0efdc6b0a3f0c2" xlink:title="22">
+
+<polygon fill="none" stroke="#000000" points="986.3741,-328.3661 986.3741,-350.3661 1013.3741,-350.3661 1013.3741,-328.3661 986.3741,-328.3661"/>
+
+<text text-anchor="start" x="988.9835" y="-334.7661" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge16_52" class="icon" pointer-events="all"><circle cx="1027.0355" cy="-337.8337" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1027.0355" cy="-341.8337" r="0.75" fill="gold"/><rect x="1026.5355" y="-339.8337" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge16_53"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7112277/pdf/" xlink:title="22">
+
+<polygon fill="none" stroke="#000000" points="986.3741,-304.3661 986.3741,-326.3661 1013.3741,-326.3661 1013.3741,-304.3661 986.3741,-304.3661"/>
+
+<text text-anchor="start" x="988.9835" y="-310.7661" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge16_53" class="icon" pointer-events="all"><circle cx="1027.0355" cy="-313.8337" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1027.0355" cy="-317.8337" r="0.75" fill="gold"/><rect x="1026.5355" y="-315.8337" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge16_54"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7193031/pdf/" xlink:title="22">
+
+<polygon fill="none" stroke="#000000" points="986.3741,-280.3661 986.3741,-302.3661 1013.3741,-302.3661 1013.3741,-280.3661 986.3741,-280.3661"/>
+
+<text text-anchor="start" x="988.9835" y="-286.7661" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge16_54" class="icon" pointer-events="all"><circle cx="1027.0355" cy="-289.8337" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1027.0355" cy="-293.8337" r="0.75" fill="gold"/><rect x="1026.5355" y="-291.8337" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge16_55"><a xlink:href="https://api.semanticscholar.org/10.1101/2020.04.06.20055327" xlink:title="22">
+
+<polygon fill="none" stroke="#000000" points="986.3741,-256.3661 986.3741,-278.3661 1013.3741,-278.3661 1013.3741,-256.3661 986.3741,-256.3661"/>
+
+<text text-anchor="start" x="988.9835" y="-262.7661" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge16_55" class="icon" pointer-events="all"><circle cx="1027.0355" cy="-265.8337" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1027.0355" cy="-269.8337" r="0.75" fill="gold"/><rect x="1026.5355" y="-267.8337" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge16_56"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7154514/pdf/" xlink:title="22">
+
+<polygon fill="none" stroke="#000000" points="986.3741,-232.3661 986.3741,-254.3661 1013.3741,-254.3661 1013.3741,-232.3661 986.3741,-232.3661"/>
+
+<text text-anchor="start" x="988.9835" y="-238.7661" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge16_56" class="icon" pointer-events="all"><circle cx="1027.0355" cy="-241.8337" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1027.0355" cy="-245.8337" r="0.75" fill="gold"/><rect x="1026.5355" y="-243.8337" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge16_57"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3119930/pdf/" xlink:title="22">
+
+<polygon fill="none" stroke="#000000" points="986.3741,-208.3661 986.3741,-230.3661 1013.3741,-230.3661 1013.3741,-208.3661 986.3741,-208.3661"/>
+
+<text text-anchor="start" x="988.9835" y="-214.7661" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge16_57" class="icon" pointer-events="all"><circle cx="1027.0355" cy="-217.8337" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1027.0355" cy="-221.8337" r="0.75" fill="gold"/><rect x="1026.5355" y="-219.8337" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge16_58"><a xlink:href="https://api.semanticscholar.org/v1/paper/4bc7c77f00f5b46fea1d6ef83c44d7a58b687eef" xlink:title="22">
+
+<polygon fill="none" stroke="#000000" points="986.3741,-184.3661 986.3741,-206.3661 1013.3741,-206.3661 1013.3741,-184.3661 986.3741,-184.3661"/>
+
+<text text-anchor="start" x="988.9835" y="-190.7661" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge16_58" class="icon" pointer-events="all"><circle cx="1027.0355" cy="-193.8337" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1027.0355" cy="-197.8337" r="0.75" fill="gold"/><rect x="1026.5355" y="-195.8337" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge16_59"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6021449/pdf/" xlink:title="22">
+
+<polygon fill="none" stroke="#000000" points="986.3741,-160.3661 986.3741,-182.3661 1013.3741,-182.3661 1013.3741,-160.3661 986.3741,-160.3661"/>
+
+<text text-anchor="start" x="988.9835" y="-166.7661" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge16_59" class="icon" pointer-events="all"><circle cx="1027.0355" cy="-169.8337" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1027.0355" cy="-173.8337" r="0.75" fill="gold"/><rect x="1026.5355" y="-171.8337" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge16_60"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2572002/pdf/" xlink:title="22">
+
+<polygon fill="none" stroke="#000000" points="986.3741,-136.3661 986.3741,-158.3661 1013.3741,-158.3661 1013.3741,-136.3661 986.3741,-136.3661"/>
+
+<text text-anchor="start" x="988.9835" y="-142.7661" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge16_60" class="icon" pointer-events="all"><circle cx="1027.0355" cy="-145.8337" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1027.0355" cy="-149.8337" r="0.75" fill="gold"/><rect x="1026.5355" y="-147.8337" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge16_61"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7120285/pdf/" xlink:title="22">
+
+<polygon fill="none" stroke="#000000" points="986.3741,-112.3661 986.3741,-134.3661 1013.3741,-134.3661 1013.3741,-112.3661 986.3741,-112.3661"/>
+
+<text text-anchor="start" x="988.9835" y="-118.7661" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge16_61" class="icon" pointer-events="all"><circle cx="1027.0355" cy="-121.8337" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1027.0355" cy="-125.8337" r="0.75" fill="gold"/><rect x="1026.5355" y="-123.8337" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge16_62"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7129017/pdf/" xlink:title="22">
+
+<polygon fill="none" stroke="#000000" points="986.3741,-88.3661 986.3741,-110.3661 1013.3741,-110.3661 1013.3741,-88.3661 986.3741,-88.3661"/>
+
+<text text-anchor="start" x="988.9835" y="-94.7661" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge16_62" class="icon" pointer-events="all"><circle cx="1027.0355" cy="-97.8337" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1027.0355" cy="-101.8337" r="0.75" fill="gold"/><rect x="1026.5355" y="-99.8337" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- camel&#45;&gt;human -->
+
+<g id="edge13" class="edge">
+
+<title>camel-&gt;human</title>
+
+<path fill="none" stroke="#000000" stroke-width="7" d="M214.5493,-604C268.838,-609.8904 378.995,-622.3951 471.8623,-636.4279 513.8257,-642.7688 523.9231,-646.7286 565.8623,-653.2279 645.5918,-665.5836 738.8052,-677.2406 793.3848,-683.7855"/>
+
+<polygon fill="#000000" stroke="#000000" stroke-width="7" points="792.7867,-689.8825 803.4422,-684.986 794.2388,-677.7188 792.7867,-689.8825"/>
+
+<text text-anchor="middle" x="572.8623" y="-640.6279" font-family="Times,serif" font-size="14.00" fill="#000000">25</text>
+
+<g id="a_edge13_63"><a xlink:href="https://api.semanticscholar.org/10.1101/2020.04.06.20055327" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-579 218.0493,-601 245.0493,-601 245.0493,-579 218.0493,-579"/>
+
+<text text-anchor="start" x="220.6587" y="-585.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_63" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-588.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-592.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-590.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge13_64"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6257029/pdf/" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-555 218.0493,-577 245.0493,-577 245.0493,-555 218.0493,-555"/>
+
+<text text-anchor="start" x="220.6587" y="-561.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_64" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-564.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-568.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-566.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge13_65"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6505341/pdf/" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-531 218.0493,-553 245.0493,-553 245.0493,-531 218.0493,-531"/>
+
+<text text-anchor="start" x="220.6587" y="-537.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_65" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-540.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-544.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-542.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge13_66"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc4809235/pdf/" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-507 218.0493,-529 245.0493,-529 245.0493,-507 218.0493,-507"/>
+
+<text text-anchor="start" x="220.6587" y="-513.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_66" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-516.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-520.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-518.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge13_67"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7087575/pdf/" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-483 218.0493,-505 245.0493,-505 245.0493,-483 218.0493,-483"/>
+
+<text text-anchor="start" x="220.6587" y="-489.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_67" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-492.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-496.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-494.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge13_68"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6723642/pdf/" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-459 218.0493,-481 245.0493,-481 245.0493,-459 218.0493,-459"/>
+
+<text text-anchor="start" x="220.6587" y="-465.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_68" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-468.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-472.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-470.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge13_69"><a xlink:href="https://api.semanticscholar.org/10.1101/2020.05.24.113175" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-435 218.0493,-457 245.0493,-457 245.0493,-435 218.0493,-435"/>
+
+<text text-anchor="start" x="220.6587" y="-441.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_69" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-444.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-448.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-446.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<text text-anchor="start" x="220.6587" y="-417.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="a_edge13_71"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7267182/pdf/" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-387 218.0493,-409 245.0493,-409 245.0493,-387 218.0493,-387"/>
+
+<text text-anchor="start" x="220.6587" y="-393.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_71" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-396.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-400.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-398.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge13_72"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7232928/pdf/" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-363 218.0493,-385 245.0493,-385 245.0493,-363 218.0493,-363"/>
+
+<text text-anchor="start" x="220.6587" y="-369.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_72" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-372.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-376.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-374.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge13_73"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7103766/pdf/" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-339 218.0493,-361 245.0493,-361 245.0493,-339 218.0493,-339"/>
+
+<text text-anchor="start" x="220.6587" y="-345.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_73" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-348.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-352.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-350.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge13_74"><a xlink:href="https://api.semanticscholar.org/v1/paper/a18236e9c75536c022502b9a9d0efdc6b0a3f0c2" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-315 218.0493,-337 245.0493,-337 245.0493,-315 218.0493,-315"/>
+
+<text text-anchor="start" x="220.6587" y="-321.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_74" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-324.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-328.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-326.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge13_75"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7149753/pdf/" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-291 218.0493,-313 245.0493,-313 245.0493,-291 218.0493,-291"/>
+
+<text text-anchor="start" x="220.6587" y="-297.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_75" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-300.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-304.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-302.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge13_76"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7129563/pdf/" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-267 218.0493,-289 245.0493,-289 245.0493,-267 218.0493,-267"/>
+
+<text text-anchor="start" x="220.6587" y="-273.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_76" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-276.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-280.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-278.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge13_77"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7087630/pdf/" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-243 218.0493,-265 245.0493,-265 245.0493,-243 218.0493,-243"/>
+
+<text text-anchor="start" x="220.6587" y="-249.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_77" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-252.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-256.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-254.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge13_78"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7087236/pdf/" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-219 218.0493,-241 245.0493,-241 245.0493,-219 218.0493,-219"/>
+
+<text text-anchor="start" x="220.6587" y="-225.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_78" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-228.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-232.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-230.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge13_79"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7252187/pdf/" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-195 218.0493,-217 245.0493,-217 245.0493,-195 218.0493,-195"/>
+
+<text text-anchor="start" x="220.6587" y="-201.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_79" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-204.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-208.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-206.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge13_80"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7198075/pdf/" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-171 218.0493,-193 245.0493,-193 245.0493,-171 218.0493,-171"/>
+
+<text text-anchor="start" x="220.6587" y="-177.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_80" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-180.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-184.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-182.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge13_81"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7157479/pdf/" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-147 218.0493,-169 245.0493,-169 245.0493,-147 218.0493,-147"/>
+
+<text text-anchor="start" x="220.6587" y="-153.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_81" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-156.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-160.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-158.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge13_82"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7148737/pdf/" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-123 218.0493,-145 245.0493,-145 245.0493,-123 218.0493,-123"/>
+
+<text text-anchor="start" x="220.6587" y="-129.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_82" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-132.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-136.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-134.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge13_83"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7165814/pdf/" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-99 218.0493,-121 245.0493,-121 245.0493,-99 218.0493,-99"/>
+
+<text text-anchor="start" x="220.6587" y="-105.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_83" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-108.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-112.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-110.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge13_84"><a xlink:href="https://api.semanticscholar.org/10.1101/2019.12.18.881391" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-75 218.0493,-97 245.0493,-97 245.0493,-75 218.0493,-75"/>
+
+<text text-anchor="start" x="220.6587" y="-81.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_84" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-84.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-88.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-86.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge13_85"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6448012/pdf/" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-51 218.0493,-73 245.0493,-73 245.0493,-51 218.0493,-51"/>
+
+<text text-anchor="start" x="220.6587" y="-57.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_85" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-60.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-64.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-62.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge13_86"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7162632/pdf/" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-27 218.0493,-49 245.0493,-49 245.0493,-27 218.0493,-27"/>
+
+<text text-anchor="start" x="220.6587" y="-33.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_86" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-36.4676" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-40.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-38.4676" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge13_87"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6362578/pdf/" xlink:title="25">
+
+<polygon fill="none" stroke="#000000" points="218.0493,-3 218.0493,-25 245.0493,-25 245.0493,-3 218.0493,-3"/>
+
+<text text-anchor="start" x="220.6587" y="-9.4" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge13_87" class="icon" pointer-events="all"><circle cx="258.71070000000003" cy="-12.467600000000001" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="258.71070000000003" cy="-16.4676" r="0.75" fill="gold"/><rect x="258.21070000000003" y="-14.467600000000001" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- dromedary&#45;&gt;human -->
+
+<g id="edge22" class="edge">
+
+<title>dromedary-&gt;human</title>
+
+<path fill="none" stroke="#000000" stroke-width="3.6" d="M1310.3577,-760.5394C1298.4203,-748.3562 1280.8003,-732.9561 1261.8623,-725.2279 1195.1763,-698.0148 983.4228,-691.3695 887.6825,-689.7491"/>
+
+<polygon fill="#000000" stroke="#000000" stroke-width="3.6" points="887.4722,-686.2455 877.4182,-689.5873 887.3618,-693.2446 887.4722,-686.2455"/>
+
+<text text-anchor="middle" x="1292.3623" y="-729.4279" font-family="Times,serif" font-size="14.00" fill="#000000">8</text>
+
+<g id="a_edge22_88"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7260574/pdf/" xlink:title="8">
+
+<polygon fill="none" stroke="#000000" points="1313.8577,-735.5394 1313.8577,-757.5394 1340.8577,-757.5394 1340.8577,-735.5394 1313.8577,-735.5394"/>
+
+<text text-anchor="start" x="1316.4671" y="-741.9394" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge22_88" class="icon" pointer-events="all"><circle cx="1354.5191" cy="-745.007" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1354.5191" cy="-749.007" r="0.75" fill="gold"/><rect x="1354.0191" y="-747.007" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge22_89"><a xlink:href="https://api.semanticscholar.org/v1/paper/e2aee146a962f1d07174aa3266f6fa180d20bf4a" xlink:title="8">
+
+<polygon fill="none" stroke="#000000" points="1313.8577,-711.5394 1313.8577,-733.5394 1340.8577,-733.5394 1340.8577,-711.5394 1313.8577,-711.5394"/>
+
+<text text-anchor="start" x="1316.4671" y="-717.9394" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge22_89" class="icon" pointer-events="all"><circle cx="1354.5191" cy="-721.007" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1354.5191" cy="-725.007" r="0.75" fill="gold"/><rect x="1354.0191" y="-723.007" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge22_90"><a xlink:href="https://api.semanticscholar.org/10.1101/2020.04.11.20054643" xlink:title="8">
+
+<polygon fill="none" stroke="#000000" points="1313.8577,-687.5394 1313.8577,-709.5394 1340.8577,-709.5394 1340.8577,-687.5394 1313.8577,-687.5394"/>
+
+<text text-anchor="start" x="1316.4671" y="-693.9394" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge22_90" class="icon" pointer-events="all"><circle cx="1354.5191" cy="-697.007" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1354.5191" cy="-701.007" r="0.75" fill="gold"/><rect x="1354.0191" y="-699.007" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge22_91"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7110516/pdf/" xlink:title="8">
+
+<polygon fill="none" stroke="#000000" points="1313.8577,-663.5394 1313.8577,-685.5394 1340.8577,-685.5394 1340.8577,-663.5394 1313.8577,-663.5394"/>
+
+<text text-anchor="start" x="1316.4671" y="-669.9394" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge22_91" class="icon" pointer-events="all"><circle cx="1354.5191" cy="-673.007" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1354.5191" cy="-677.007" r="0.75" fill="gold"/><rect x="1354.0191" y="-675.007" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge22_92"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7193031/pdf/" xlink:title="8">
+
+<polygon fill="none" stroke="#000000" points="1313.8577,-639.5394 1313.8577,-661.5394 1340.8577,-661.5394 1340.8577,-639.5394 1313.8577,-639.5394"/>
+
+<text text-anchor="start" x="1316.4671" y="-645.9394" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge22_92" class="icon" pointer-events="all"><circle cx="1354.5191" cy="-649.007" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1354.5191" cy="-653.007" r="0.75" fill="gold"/><rect x="1354.0191" y="-651.007" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge22_93"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7154514/pdf/" xlink:title="8">
+
+<polygon fill="none" stroke="#000000" points="1313.8577,-615.5394 1313.8577,-637.5394 1340.8577,-637.5394 1340.8577,-615.5394 1313.8577,-615.5394"/>
+
+<text text-anchor="start" x="1316.4671" y="-621.9394" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge22_93" class="icon" pointer-events="all"><circle cx="1354.5191" cy="-625.007" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1354.5191" cy="-629.007" r="0.75" fill="gold"/><rect x="1354.0191" y="-627.007" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge22_94"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7180649/pdf/" xlink:title="8">
+
+<polygon fill="none" stroke="#000000" points="1313.8577,-591.5394 1313.8577,-613.5394 1340.8577,-613.5394 1340.8577,-591.5394 1313.8577,-591.5394"/>
+
+<text text-anchor="start" x="1316.4671" y="-597.9394" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge22_94" class="icon" pointer-events="all"><circle cx="1354.5191" cy="-601.007" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1354.5191" cy="-605.007" r="0.75" fill="gold"/><rect x="1354.0191" y="-603.007" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge22_95"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7129017/pdf/" xlink:title="8">
+
+<polygon fill="none" stroke="#000000" points="1313.8577,-567.5394 1313.8577,-589.5394 1340.8577,-589.5394 1340.8577,-567.5394 1313.8577,-567.5394"/>
+
+<text text-anchor="start" x="1316.4671" y="-573.9394" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge22_95" class="icon" pointer-events="all"><circle cx="1354.5191" cy="-577.007" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1354.5191" cy="-581.007" r="0.75" fill="gold"/><rect x="1354.0191" y="-579.007" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- horse&#45;&gt;bat -->
+
+<g id="edge25" class="edge">
+
+<title>horse-&gt;bat</title>
+
+<path fill="none" stroke="#000000" d="M54.4227,-796.0311C54.5591,-807.8058 56.9839,-822.4981 66.8623,-830.8279 85.7816,-846.7812 857.7101,-862.6388 1037.6458,-866.1231"/>
+
+<polygon fill="#000000" stroke="#000000" points="1037.618,-869.6231 1047.6836,-866.3165 1037.7529,-862.6244 1037.618,-869.6231"/>
+
+<text text-anchor="middle" x="70.3623" y="-818.2279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge25_96"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6849485/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="24.9227,-799.0311 24.9227,-821.0311 51.9227,-821.0311 51.9227,-799.0311 24.9227,-799.0311"/>
+
+<text text-anchor="start" x="27.5321" y="-805.4311" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge25_96" class="icon" pointer-events="all"><circle cx="65.5841" cy="-808.4987" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="65.5841" cy="-812.4987" r="0.75" fill="gold"/><rect x="65.0841" y="-810.4987" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- horse&#45;&gt;camel -->
+
+<g id="edge26" class="edge">
+
+<title>horse-&gt;camel</title>
+
+<path fill="none" stroke="#000000" d="M67.8478,-760.9989C89.9671,-729.5717 137.2991,-662.3224 163.1373,-625.6116"/>
+
+<polygon fill="#000000" stroke="#000000" points="166.0195,-627.5974 168.913,-617.4054 160.2952,-623.5685 166.0195,-627.5974"/>
+
+<text text-anchor="middle" x="134.3623" y="-685.0279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge26_97"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc5709570/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="71.3478,-735.9989 71.3478,-757.9989 98.3478,-757.9989 98.3478,-735.9989 71.3478,-735.9989"/>
+
+<text text-anchor="start" x="73.9572" y="-742.3989" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge26_97" class="icon" pointer-events="all"><circle cx="112.00919999999999" cy="-745.4665" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="112.00919999999999" cy="-749.4665" r="0.75" fill="gold"/><rect x="111.50919999999999" y="-747.4665" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- human&#45;&gt;bat -->
+
+<g id="edge27" class="edge">
+
+<title>human-&gt;bat</title>
+
+<path fill="none" stroke="#000000" d="M877.1827,-690.0345C964.9696,-692.8343 1180.2151,-705.2602 1220.8623,-760.0279 1230.3978,-772.876 1229.3564,-782.4687 1220.8623,-796.0279 1217.5411,-801.3295 1148.5131,-833.3713 1106.5774,-852.4852"/>
+
+<polygon fill="#000000" stroke="#000000" points="1104.9686,-849.3718 1097.3147,-856.6977 1107.8665,-855.7438 1104.9686,-849.3718"/>
+
+<text text-anchor="middle" x="1230.3623" y="-773.8279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge27_98"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7077191/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="880.6827,-693.0345 880.6827,-715.0345 907.6827,-715.0345 907.6827,-693.0345 880.6827,-693.0345"/>
+
+<text text-anchor="start" x="883.2921" y="-699.4345" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge27_98" class="icon" pointer-events="all"><circle cx="921.3441" cy="-702.5020999999999" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="921.3441" cy="-706.5020999999999" r="0.75" fill="gold"/><rect x="920.8441" y="-704.5020999999999" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- human&#45;&gt;civet -->
+
+<g id="edge30" class="edge">
+
+<title>human-&gt;civet</title>
+
+<path fill="none" stroke="#000000" d="M866.6548,-676.505C900.3072,-660.5246 958.0156,-633.1209 994.2132,-615.9318"/>
+
+<polygon fill="#000000" stroke="#000000" points="995.8375,-619.0351 1003.3694,-611.5839 992.8348,-612.7119 995.8375,-619.0351"/>
+
+<text text-anchor="middle" x="954.3623" y="-640.6279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge30_99"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7121850/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="861.9048,-651.505 861.9048,-673.505 888.9048,-673.505 888.9048,-651.505 861.9048,-651.505"/>
+
+<text text-anchor="start" x="864.5142" y="-657.905" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge30_99" class="icon" pointer-events="all"><circle cx="902.5662" cy="-660.9725999999999" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="902.5662" cy="-664.9725999999999" r="0.75" fill="gold"/><rect x="902.0662" y="-662.9725999999999" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- human&#45;&gt;camel -->
+
+<g id="edge28" class="edge">
+
+<title>human-&gt;camel</title>
+
+<path fill="none" stroke="#000000" d="M802.6422,-686.7676C734.9829,-682.0501 587.4014,-670.6313 463.8623,-653.2279 377.6149,-641.0779 277.6482,-621.0022 222.6078,-609.4217"/>
+
+<polygon fill="#000000" stroke="#000000" points="223.0493,-605.9377 212.5415,-607.2929 221.6009,-612.7862 223.0493,-605.9377"/>
+
+<text text-anchor="middle" x="467.3623" y="-640.6279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge28_100"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7126747/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="773.1422,-689.7676 773.1422,-711.7676 800.1422,-711.7676 800.1422,-689.7676 773.1422,-689.7676"/>
+
+<text text-anchor="start" x="775.7516" y="-696.1676" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge28_100" class="icon" pointer-events="all"><circle cx="813.8036000000001" cy="-699.2352" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="813.8036000000001" cy="-703.2352" r="0.75" fill="gold"/><rect x="813.3036000000001" y="-701.2352" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- pig -->
+
+<g id="node11" class="node">
+
+<title>pig</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="459.8623" cy="-600.4279" rx="27" ry="18"/>
+
+<text text-anchor="middle" x="459.8623" y="-596.2279" font-family="Times,serif" font-size="14.00" fill="#000000">pig</text>
+
+</g>
+
+<!-- human&#45;&gt;pig -->
+
+<g id="edge32" class="edge">
+
+<title>human-&gt;pig</title>
+
+<path fill="none" stroke="#000000" stroke-width="2.4" d="M807.9617,-679.5507C770.203,-668.2967 705.3192,-649.5851 648.8623,-636.4279 596.2312,-624.1622 534.6362,-613.0213 496.4288,-606.4826"/>
+
+<polygon fill="#000000" stroke="#000000" stroke-width="2.4" points="496.7442,-602.9861 486.2994,-604.7632 495.5727,-609.8874 496.7442,-602.9861"/>
+
+<text text-anchor="middle" x="716.3623" y="-640.6279" font-family="Times,serif" font-size="14.00" fill="#000000">2</text>
+
+<g id="a_edge32_101"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7118731/pdf/" xlink:title="2">
+
+<polygon fill="none" stroke="#000000" points="778.4617,-654.5507 778.4617,-676.5507 805.4617,-676.5507 805.4617,-654.5507 778.4617,-654.5507"/>
+
+<text text-anchor="start" x="781.0711" y="-660.9507" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge32_101" class="icon" pointer-events="all"><circle cx="819.1231" cy="-664.0183" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="819.1231" cy="-668.0183" r="0.75" fill="gold"/><rect x="818.6231" y="-666.0183" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge32_102"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7121850/pdf/" xlink:title="2">
+
+<polygon fill="none" stroke="#000000" points="778.4617,-630.5507 778.4617,-652.5507 805.4617,-652.5507 805.4617,-630.5507 778.4617,-630.5507"/>
+
+<text text-anchor="start" x="781.0711" y="-636.9507" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge32_102" class="icon" pointer-events="all"><circle cx="819.1231" cy="-640.0183" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="819.1231" cy="-644.0183" r="0.75" fill="gold"/><rect x="818.6231" y="-642.0183" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- chimpanzee -->
+
+<g id="node22" class="node">
+
+<title>chimpanzee</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="1131.8623" cy="-600.4279" rx="57.303" ry="18"/>
+
+<text text-anchor="middle" x="1131.8623" y="-596.2279" font-family="Times,serif" font-size="14.00" fill="#000000">chimpanzee</text>
+
+</g>
+
+<!-- human&#45;&gt;chimpanzee -->
+
+<g id="edge29" class="edge">
+
+<title>human-&gt;chimpanzee</title>
+
+<path fill="none" stroke="#000000" d="M875.9589,-684.464C912.3778,-679.0713 969.9247,-668.9358 1017.8623,-653.2279 1044.1597,-644.6109 1072.3921,-631.5662 1094.1821,-620.5991"/>
+
+<polygon fill="#000000" stroke="#000000" points="1095.787,-623.7095 1103.1019,-616.0451 1092.604,-617.4751 1095.787,-623.7095"/>
+
+<text text-anchor="middle" x="1063.3623" y="-640.6279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge29_103"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7138062/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="879.4589,-659.464 879.4589,-681.464 906.4589,-681.464 906.4589,-659.464 879.4589,-659.464"/>
+
+<text text-anchor="start" x="882.0683" y="-665.864" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge29_103" class="icon" pointer-events="all"><circle cx="920.1203" cy="-668.9316" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="920.1203" cy="-672.9316" r="0.75" fill="gold"/><rect x="919.6203" y="-670.9316" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- mosquito -->
+
+<g id="node23" class="node">
+
+<title>mosquito</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="931.8623" cy="-600.4279" rx="46.9709" ry="18"/>
+
+<text text-anchor="middle" x="931.8623" y="-596.2279" font-family="Times,serif" font-size="14.00" fill="#000000">mosquito</text>
+
+</g>
+
+<!-- human&#45;&gt;mosquito -->
+
+<g id="edge31" class="edge">
+
+<title>human-&gt;mosquito</title>
+
+<path fill="none" stroke="#000000" d="M856.7365,-672.9406C870.8236,-659.3435 891.1016,-639.7708 907.0402,-624.3866"/>
+
+<polygon fill="#000000" stroke="#000000" points="909.7055,-626.6784 914.4699,-617.2153 904.8441,-621.6419 909.7055,-626.6784"/>
+
+<text text-anchor="middle" x="898.3623" y="-640.6279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge31_104"><a xlink:href="https://api.semanticscholar.org/10.1101/2020.04.11.20061143" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="827.2365,-647.9406 827.2365,-669.9406 854.2365,-669.9406 854.2365,-647.9406 827.2365,-647.9406"/>
+
+<text text-anchor="start" x="829.8459" y="-654.3406" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge31_104" class="icon" pointer-events="all"><circle cx="867.8979" cy="-657.4082" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="867.8979" cy="-661.4082" r="0.75" fill="gold"/><rect x="867.3979" y="-659.4082" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- swine -->
+
+<g id="node24" class="node">
+
+<title>swine</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="751.8623" cy="-600.4279" rx="33.6247" ry="18"/>
+
+<text text-anchor="middle" x="751.8623" y="-596.2279" font-family="Times,serif" font-size="14.00" fill="#000000">swine</text>
+
+</g>
+
+<!-- human&#45;&gt;swine -->
+
+<g id="edge33" class="edge">
+
+<title>human-&gt;swine</title>
+
+<path fill="none" stroke="#000000" d="M822.1184,-673.3818C815.3563,-667.2053 807.6476,-659.9951 800.8623,-653.2279 791.6852,-644.0752 781.9076,-633.6795 773.5198,-624.5472"/>
+
+<polygon fill="#000000" stroke="#000000" points="775.8805,-621.9416 766.5566,-616.9102 770.7079,-626.658 775.8805,-621.9416"/>
+
+<text text-anchor="middle" x="804.3623" y="-640.6279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge33_105"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7126747/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="792.6184,-648.3818 792.6184,-670.3818 819.6184,-670.3818 819.6184,-648.3818 792.6184,-648.3818"/>
+
+<text text-anchor="start" x="795.2278" y="-654.7818" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge33_105" class="icon" pointer-events="all"><circle cx="833.2798" cy="-657.8494" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="833.2798" cy="-661.8494" r="0.75" fill="gold"/><rect x="832.7798" y="-659.8494" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- pangolin&#45;&gt;human -->
+
+<g id="edge39" class="edge">
+
+<title>pangolin-&gt;human</title>
+
+<path fill="none" stroke="#000000" stroke-width="2.6" d="M1059.1033,-760.9557C1047.2372,-749.1402 1029.964,-734.0152 1011.8623,-725.2279 972.3947,-706.0687 922.9935,-697.0746 887.2729,-692.871"/>
+
+<polygon fill="#000000" stroke="#000000" stroke-width="2.6" points="887.4384,-689.3684 877.1173,-691.7611 886.6778,-696.3269 887.4384,-689.3684"/>
+
+<text text-anchor="middle" x="1040.3623" y="-729.4279" font-family="Times,serif" font-size="14.00" fill="#000000">3</text>
+
+<g id="a_edge39_106"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7217226/pdf/" xlink:title="3">
+
+<polygon fill="none" stroke="#000000" points="1062.6033,-735.9557 1062.6033,-757.9557 1089.6033,-757.9557 1089.6033,-735.9557 1062.6033,-735.9557"/>
+
+<text text-anchor="start" x="1065.2127" y="-742.3557" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge39_106" class="icon" pointer-events="all"><circle cx="1103.2647" cy="-745.4232999999999" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1103.2647" cy="-749.4232999999999" r="0.75" fill="gold"/><rect x="1102.7647" y="-747.4232999999999" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge39_107"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7202812/pdf/" xlink:title="3">
+
+<polygon fill="none" stroke="#000000" points="1062.6033,-711.9557 1062.6033,-733.9557 1089.6033,-733.9557 1089.6033,-711.9557 1062.6033,-711.9557"/>
+
+<text text-anchor="start" x="1065.2127" y="-718.3557" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge39_107" class="icon" pointer-events="all"><circle cx="1103.2647" cy="-721.4232999999999" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1103.2647" cy="-725.4232999999999" r="0.75" fill="gold"/><rect x="1102.7647" y="-723.4232999999999" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge39_108"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7193031/pdf/" xlink:title="3">
+
+<polygon fill="none" stroke="#000000" points="1062.6033,-687.9557 1062.6033,-709.9557 1089.6033,-709.9557 1089.6033,-687.9557 1062.6033,-687.9557"/>
+
+<text text-anchor="start" x="1065.2127" y="-694.3557" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge39_108" class="icon" pointer-events="all"><circle cx="1103.2647" cy="-697.4232999999999" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1103.2647" cy="-701.4232999999999" r="0.75" fill="gold"/><rect x="1102.7647" y="-699.4232999999999" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- racoon&#45;&gt;human -->
+
+<g id="edge41" class="edge">
+
+<title>racoon-&gt;human</title>
+
+<path fill="none" stroke="#000000" d="M1148.725,-765.1379C1123.4731,-753.1747 1083.8631,-735.6851 1047.8623,-725.2279 993.5662,-709.4564 929.1698,-699.6195 886.5669,-694.2923"/>
+
+<polygon fill="#000000" stroke="#000000" points="886.8408,-690.7998 876.4911,-693.0657 885.9949,-697.7486 886.8408,-690.7998"/>
+
+<text text-anchor="middle" x="1098.3623" y="-729.4279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge41_109"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3119930/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="1127.475,-740.1379 1127.475,-762.1379 1154.475,-762.1379 1154.475,-740.1379 1127.475,-740.1379"/>
+
+<text text-anchor="start" x="1130.0844" y="-746.5379" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge41_109" class="icon" pointer-events="all"><circle cx="1168.1363999999999" cy="-749.6055" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1168.1363999999999" cy="-753.6055" r="0.75" fill="gold"/><rect x="1167.6363999999999" y="-751.6055" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- bird -->
+
+<g id="node10" class="node">
+
+<title>bird</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="244.8623" cy="-778.0279" rx="27" ry="18"/>
+
+<text text-anchor="middle" x="244.8623" y="-773.8279" font-family="Times,serif" font-size="14.00" fill="#000000">bird</text>
+
+</g>
+
+<!-- bird&#45;&gt;human -->
+
+<g id="edge10" class="edge">
+
+<title>bird-&gt;human</title>
+
+<path fill="none" stroke="#000000" stroke-width="3" d="M265.8894,-766.7071C270.7317,-764.3278 275.9146,-761.9574 280.8623,-760.0279 332.9957,-739.6964 346.8189,-735.3025 401.8623,-725.2279 542.1035,-699.5595 710.9752,-692.1827 791.9624,-690.0703"/>
+
+<polygon fill="#000000" stroke="#000000" stroke-width="3" points="792.4176,-693.5603 802.3289,-689.8165 792.2462,-686.5624 792.4176,-693.5603"/>
+
+<text text-anchor="middle" x="405.3623" y="-729.4279" font-family="Times,serif" font-size="14.00" fill="#000000">5</text>
+
+<g id="a_edge10_110"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7152116/pdf/" xlink:title="5">
+
+<polygon fill="none" stroke="#000000" points="269.3894,-741.7071 269.3894,-763.7071 296.3894,-763.7071 296.3894,-741.7071 269.3894,-741.7071"/>
+
+<text text-anchor="start" x="271.9988" y="-748.1071" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge10_110" class="icon" pointer-events="all"><circle cx="310.05080000000004" cy="-751.1746999999999" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="310.05080000000004" cy="-755.1746999999999" r="0.75" fill="gold"/><rect x="309.55080000000004" y="-753.1746999999999" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge10_111"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7150074/pdf/" xlink:title="5">
+
+<polygon fill="none" stroke="#000000" points="269.3894,-717.7071 269.3894,-739.7071 296.3894,-739.7071 296.3894,-717.7071 269.3894,-717.7071"/>
+
+<text text-anchor="start" x="271.9988" y="-724.1071" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge10_111" class="icon" pointer-events="all"><circle cx="310.05080000000004" cy="-727.1746999999999" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="310.05080000000004" cy="-731.1746999999999" r="0.75" fill="gold"/><rect x="309.55080000000004" y="-729.1746999999999" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge10_112"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc4124145/pdf/" xlink:title="5">
+
+<polygon fill="none" stroke="#000000" points="269.3894,-693.7071 269.3894,-715.7071 296.3894,-715.7071 296.3894,-693.7071 269.3894,-693.7071"/>
+
+<text text-anchor="start" x="271.9988" y="-700.1071" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge10_112" class="icon" pointer-events="all"><circle cx="310.05080000000004" cy="-703.1746999999999" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="310.05080000000004" cy="-707.1746999999999" r="0.75" fill="gold"/><rect x="309.55080000000004" y="-705.1746999999999" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge10_113"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7152125/pdf/" xlink:title="5">
+
+<polygon fill="none" stroke="#000000" points="269.3894,-669.7071 269.3894,-691.7071 296.3894,-691.7071 296.3894,-669.7071 269.3894,-669.7071"/>
+
+<text text-anchor="start" x="271.9988" y="-676.1071" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge10_113" class="icon" pointer-events="all"><circle cx="310.05080000000004" cy="-679.1746999999999" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="310.05080000000004" cy="-683.1746999999999" r="0.75" fill="gold"/><rect x="309.55080000000004" y="-681.1746999999999" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge10_114"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7110368/pdf/" xlink:title="5">
+
+<polygon fill="none" stroke="#000000" points="269.3894,-645.7071 269.3894,-667.7071 296.3894,-667.7071 296.3894,-645.7071 269.3894,-645.7071"/>
+
+<text text-anchor="start" x="271.9988" y="-652.1071" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge10_114" class="icon" pointer-events="all"><circle cx="310.05080000000004" cy="-655.1746999999999" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="310.05080000000004" cy="-659.1746999999999" r="0.75" fill="gold"/><rect x="309.55080000000004" y="-657.1746999999999" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- bird&#45;&gt;pig -->
+
+<g id="edge11" class="edge">
+
+<title>bird-&gt;pig</title>
+
+<path fill="none" stroke="#000000" stroke-width="2.6" d="M254.2084,-761.1061C271.2722,-731.6906 310.235,-670.9733 358.8623,-636.4279 378.3357,-622.5937 403.6635,-613.5833 424.0839,-608.0366"/>
+
+<polygon fill="#000000" stroke="#000000" stroke-width="2.6" points="425.1381,-611.3798 433.9618,-605.5153 423.4069,-604.5972 425.1381,-611.3798"/>
+
+<text text-anchor="middle" x="322.3623" y="-685.0279" font-family="Times,serif" font-size="14.00" fill="#000000">3</text>
+
+<g id="a_edge11_115"><a xlink:href="https://api.semanticscholar.org/10.1093/molbev/msaa117" xlink:title="3">
+
+<polygon fill="none" stroke="#000000" points="232.9584,-736.1061 232.9584,-758.1061 259.9584,-758.1061 259.9584,-736.1061 232.9584,-736.1061"/>
+
+<text text-anchor="start" x="235.5678" y="-742.5061" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge11_115" class="icon" pointer-events="all"><circle cx="273.6198" cy="-745.5736999999999" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="273.6198" cy="-749.5736999999999" r="0.75" fill="gold"/><rect x="273.1198" y="-747.5736999999999" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge11_116"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6803248/pdf/" xlink:title="3">
+
+<polygon fill="none" stroke="#000000" points="232.9584,-712.1061 232.9584,-734.1061 259.9584,-734.1061 259.9584,-712.1061 232.9584,-712.1061"/>
+
+<text text-anchor="start" x="235.5678" y="-718.5061" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge11_116" class="icon" pointer-events="all"><circle cx="273.6198" cy="-721.5736999999999" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="273.6198" cy="-725.5736999999999" r="0.75" fill="gold"/><rect x="273.1198" y="-723.5736999999999" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge11_117"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7114555/pdf/" xlink:title="3">
+
+<polygon fill="none" stroke="#000000" points="232.9584,-688.1061 232.9584,-710.1061 259.9584,-710.1061 259.9584,-688.1061 232.9584,-688.1061"/>
+
+<text text-anchor="start" x="235.5678" y="-694.5061" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge11_117" class="icon" pointer-events="all"><circle cx="273.6198" cy="-697.5736999999999" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="273.6198" cy="-701.5736999999999" r="0.75" fill="gold"/><rect x="273.1198" y="-699.5736999999999" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- pig&#45;&gt;human -->
+
+<g id="edge40" class="edge">
+
+<title>pig-&gt;human</title>
+
+<path fill="none" stroke="#000000" d="M484.8401,-607.7895C532.6594,-621.8725 633.1161,-651.4027 640.8623,-653.2279 692.8905,-665.487 753.4183,-675.8974 793.9344,-682.3222"/>
+
+<polygon fill="#000000" stroke="#000000" points="793.6196,-685.8156 804.0413,-683.908 794.7047,-678.9002 793.6196,-685.8156"/>
+
+<text text-anchor="middle" x="644.3623" y="-640.6279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge40_118"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6880172/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="488.3401,-610.7895 488.3401,-632.7895 515.3401,-632.7895 515.3401,-610.7895 488.3401,-610.7895"/>
+
+<text text-anchor="start" x="490.9495" y="-617.1895" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge40_118" class="icon" pointer-events="all"><circle cx="529.0015" cy="-620.2570999999999" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="529.0015" cy="-624.2570999999999" r="0.75" fill="gold"/><rect x="528.5015" y="-622.2570999999999" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- bovine -->
+
+<g id="node12" class="node">
+
+<title>bovine</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="1160.8623" cy="-955.6279" rx="37.1424" ry="18"/>
+
+<text text-anchor="middle" x="1160.8623" y="-951.4279" font-family="Times,serif" font-size="14.00" fill="#000000">bovine</text>
+
+</g>
+
+<!-- canine -->
+
+<g id="node13" class="node">
+
+<title>canine</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="1160.8623" cy="-866.8279" rx="36.4761" ry="18"/>
+
+<text text-anchor="middle" x="1160.8623" y="-862.6279" font-family="Times,serif" font-size="14.00" fill="#000000">canine</text>
+
+</g>
+
+<!-- bovine&#45;&gt;canine -->
+
+<g id="edge12" class="edge">
+
+<title>bovine-&gt;canine</title>
+
+<path fill="none" stroke="#000000" d="M1160.8623,-937.2285C1160.8623,-925.1228 1160.8623,-909.0355 1160.8623,-895.2953"/>
+
+<polygon fill="#000000" stroke="#000000" points="1164.3624,-894.8999 1160.8623,-884.8999 1157.3624,-894.8999 1164.3624,-894.8999"/>
+
+<text text-anchor="middle" x="1164.3623" y="-907.0279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge12_119"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7089282/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="1131.3623,-912.2285 1131.3623,-934.2285 1158.3623,-934.2285 1158.3623,-912.2285 1131.3623,-912.2285"/>
+
+<text text-anchor="start" x="1133.9717" y="-918.6285" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge12_119" class="icon" pointer-events="all"><circle cx="1172.0237" cy="-921.6961" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1172.0237" cy="-925.6961" r="0.75" fill="gold"/><rect x="1171.5237" y="-923.6961" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- cat -->
+
+<g id="node14" class="node">
+
+<title>cat</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="916.8623" cy="-511.6279" rx="27" ry="18"/>
+
+<text text-anchor="middle" x="916.8623" y="-507.4279" font-family="Times,serif" font-size="14.00" fill="#000000">cat</text>
+
+</g>
+
+<!-- cat&#45;&gt;human -->
+
+<g id="edge14" class="edge">
+
+<title>cat-&gt;human</title>
+
+<path fill="none" stroke="#000000" stroke-width="2.4" d="M903.7698,-527.5792C893.0395,-541.3567 878.1576,-562.1847 868.8623,-582.4279 857.1493,-607.9363 849.3604,-639.1125 844.8315,-661.1801"/>
+
+<polygon fill="#000000" stroke="#000000" stroke-width="2.4" points="841.3531,-660.7307 842.8672,-671.2168 848.2228,-662.0753 841.3531,-660.7307"/>
+
+<text text-anchor="middle" x="872.3623" y="-596.2279" font-family="Times,serif" font-size="14.00" fill="#000000">2</text>
+
+<g id="a_edge14_120"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7198075/pdf/" xlink:title="2">
+
+<polygon fill="none" stroke="#000000" points="874.2698,-554.5792 874.2698,-576.5792 901.2698,-576.5792 901.2698,-554.5792 874.2698,-554.5792"/>
+
+<text text-anchor="start" x="876.8792" y="-560.9792" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge14_120" class="icon" pointer-events="all"><circle cx="914.9312" cy="-564.0468" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="914.9312" cy="-568.0468" r="0.75" fill="gold"/><rect x="914.4312" y="-566.0468" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge14_121"><a xlink:href="https://api.semanticscholar.org/v1/paper/e2aee146a962f1d07174aa3266f6fa180d20bf4a" xlink:title="2">
+
+<polygon fill="none" stroke="#000000" points="874.2698,-530.5792 874.2698,-552.5792 901.2698,-552.5792 901.2698,-530.5792 874.2698,-530.5792"/>
+
+<text text-anchor="start" x="876.8792" y="-536.9792" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge14_121" class="icon" pointer-events="all"><circle cx="914.9312" cy="-540.0468" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="914.9312" cy="-544.0468" r="0.75" fill="gold"/><rect x="914.4312" y="-542.0468" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- cattle -->
+
+<g id="node15" class="node">
+
+<title>cattle</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="1374.8623" cy="-600.4279" rx="31.8954" ry="18"/>
+
+<text text-anchor="middle" x="1374.8623" y="-596.2279" font-family="Times,serif" font-size="14.00" fill="#000000">cattle</text>
+
+</g>
+
+<!-- dog -->
+
+<g id="node16" class="node">
+
+<title>dog</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="1106.8623" cy="-511.6279" rx="27" ry="18"/>
+
+<text text-anchor="middle" x="1106.8623" y="-507.4279" font-family="Times,serif" font-size="14.00" fill="#000000">dog</text>
+
+</g>
+
+<!-- cattle&#45;&gt;dog -->
+
+<g id="edge15" class="edge">
+
+<title>cattle-&gt;dog</title>
+
+<path fill="none" stroke="#000000" d="M1365.6819,-583.052C1358.2762,-570.9248 1346.6651,-555.5453 1331.8623,-547.6279 1257.4565,-507.8311 1223.9725,-552.89 1142.8623,-529.6279 1140.7339,-529.0175 1138.5808,-528.2824 1136.4417,-527.4628"/>
+
+<polygon fill="#000000" stroke="#000000" points="1137.8385,-524.2536 1127.2739,-523.4538 1135.0338,-530.6672 1137.8385,-524.2536"/>
+
+<text text-anchor="middle" x="1354.3623" y="-551.8279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge15_122"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7117484/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="1369.1819,-558.052 1369.1819,-580.052 1396.1819,-580.052 1396.1819,-558.052 1369.1819,-558.052"/>
+
+<text text-anchor="start" x="1371.7913" y="-564.452" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge15_122" class="icon" pointer-events="all"><circle cx="1409.8433" cy="-567.5196" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1409.8433" cy="-571.5196" r="0.75" fill="gold"/><rect x="1409.3433" y="-569.5196" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- dog&#45;&gt;human -->
+
+<g id="edge21" class="edge">
+
+<title>dog-&gt;human</title>
+
+<path fill="none" stroke="#000000" d="M1128.5926,-522.5239C1163.5414,-541.4866 1225.6384,-582.0168 1197.8623,-618.4279 1160.7604,-667.064 975.9334,-682.6108 887.354,-687.3143"/>
+
+<polygon fill="#000000" stroke="#000000" points="887.1103,-683.822 877.3001,-687.8233 887.4644,-690.8131 887.1103,-683.822"/>
+
+<text text-anchor="middle" x="1207.3623" y="-596.2279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge21_123"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7152112/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="1132.0926,-525.5239 1132.0926,-547.5239 1159.0926,-547.5239 1159.0926,-525.5239 1132.0926,-525.5239"/>
+
+<text text-anchor="start" x="1134.702" y="-531.9239" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge21_123" class="icon" pointer-events="all"><circle cx="1172.754" cy="-534.9915" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1172.754" cy="-538.9915" r="0.75" fill="gold"/><rect x="1172.254" y="-536.9915" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- flea -->
+
+<g id="node20" class="node">
+
+<title>flea</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="1142.8623" cy="-422.8279" rx="27" ry="18"/>
+
+<text text-anchor="middle" x="1142.8623" y="-418.6279" font-family="Times,serif" font-size="14.00" fill="#000000">flea</text>
+
+</g>
+
+<!-- dog&#45;&gt;flea -->
+
+<g id="edge20" class="edge">
+
+<title>dog-&gt;flea</title>
+
+<path fill="none" stroke="#000000" d="M1113.9747,-494.0839C1119.1026,-481.435 1126.1189,-464.1281 1131.9526,-449.7384"/>
+
+<polygon fill="#000000" stroke="#000000" points="1135.2511,-450.9179 1135.7646,-440.3355 1128.7639,-448.2879 1135.2511,-450.9179"/>
+
+<text text-anchor="middle" x="1132.3623" y="-463.0279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge20_124"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6797873/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="1084.4747,-469.0839 1084.4747,-491.0839 1111.4747,-491.0839 1111.4747,-469.0839 1084.4747,-469.0839"/>
+
+<text text-anchor="start" x="1087.0841" y="-475.4839" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge20_124" class="icon" pointer-events="all"><circle cx="1125.1361" cy="-478.55150000000003" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1125.1361" cy="-482.55150000000003" r="0.75" fill="gold"/><rect x="1124.6361" y="-480.55150000000003" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- cow -->
+
+<g id="node17" class="node">
+
+<title>cow</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="33.8623" cy="-866.8279" rx="27.2467" ry="18"/>
+
+<text text-anchor="middle" x="33.8623" y="-862.6279" font-family="Times,serif" font-size="14.00" fill="#000000">cow</text>
+
+</g>
+
+<!-- cow&#45;&gt;horse -->
+
+<g id="edge17" class="edge">
+
+<title>cow-&gt;horse</title>
+
+<path fill="none" stroke="#000000" d="M33,-848.4318C32.9881,-838.1386 33.7633,-825.1737 36.8623,-814.0279 37.7994,-810.6575 39.0844,-807.2446 40.5479,-803.9316"/>
+
+<polygon fill="#000000" stroke="#000000" points="43.682,-805.4895 45.0037,-794.9774 37.4151,-802.3708 43.682,-805.4895"/>
+
+<text text-anchor="middle" x="40.3623" y="-818.2279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge17_125"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc5709570/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="3.5,-823.4318 3.5,-845.4318 30.5,-845.4318 30.5,-823.4318 3.5,-823.4318"/>
+
+<text text-anchor="start" x="6.1094" y="-829.8318" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge17_125" class="icon" pointer-events="all"><circle cx="44.1614" cy="-832.8994" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="44.1614" cy="-836.8994" r="0.75" fill="gold"/><rect x="43.6614" y="-834.8994" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- deer -->
+
+<g id="node18" class="node">
+
+<title>deer</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="171.8623" cy="-778.0279" rx="27.8073" ry="18"/>
+
+<text text-anchor="middle" x="171.8623" y="-773.8279" font-family="Times,serif" font-size="14.00" fill="#000000">deer</text>
+
+</g>
+
+<!-- deer&#45;&gt;camel -->
+
+<g id="edge18" class="edge">
+
+<title>deer-&gt;camel</title>
+
+<path fill="none" stroke="#000000" d="M171.1646,-759.8647C170.5093,-738.5957 169.8943,-702.3157 171.8623,-671.2279 172.7552,-657.1231 174.6391,-641.532 176.4536,-628.5792"/>
+
+<polygon fill="#000000" stroke="#000000" points="179.9569,-628.8106 177.9383,-618.4099 173.0303,-627.7993 179.9569,-628.8106"/>
+
+<text text-anchor="middle" x="175.3623" y="-685.0279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge18_126"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7126047/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="166.4146,-734.8647 166.4146,-756.8647 193.4146,-756.8647 193.4146,-734.8647 166.4146,-734.8647"/>
+
+<text text-anchor="start" x="169.024" y="-741.2647" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge18_126" class="icon" pointer-events="all"><circle cx="207.076" cy="-744.3322999999999" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="207.076" cy="-748.3322999999999" r="0.75" fill="gold"/><rect x="206.576" y="-746.3322999999999" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- snail -->
+
+<g id="node19" class="node">
+
+<title>snail</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="216.8623" cy="-689.2279" rx="29.0509" ry="18"/>
+
+<text text-anchor="middle" x="216.8623" y="-685.0279" font-family="Times,serif" font-size="14.00" fill="#000000">snail</text>
+
+</g>
+
+<!-- deer&#45;&gt;snail -->
+
+<g id="edge19" class="edge">
+
+<title>deer-&gt;snail</title>
+
+<path fill="none" stroke="#000000" d="M180.5387,-760.9064C187.0335,-748.0901 196.0371,-730.3228 203.4554,-715.6842"/>
+
+<polygon fill="#000000" stroke="#000000" points="206.6606,-717.102 208.0589,-706.5999 200.4166,-713.9378 206.6606,-717.102"/>
+
+<text text-anchor="middle" x="202.3623" y="-729.4279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge19_127"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7126047/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="184.0387,-763.9064 184.0387,-785.9064 211.0387,-785.9064 211.0387,-763.9064 184.0387,-763.9064"/>
+
+<text text-anchor="start" x="186.6481" y="-770.3064" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge19_127" class="icon" pointer-events="all"><circle cx="224.7001" cy="-773.374" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="224.7001" cy="-777.374" r="0.75" fill="gold"/><rect x="224.2001" y="-775.374" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- snail&#45;&gt;camel -->
+
+<g id="edge45" class="edge">
+
+<title>snail-&gt;camel</title>
+
+<path fill="none" stroke="#000000" d="M209.7498,-671.6839C204.6552,-659.1171 197.6967,-641.9527 191.8857,-627.6191"/>
+
+<polygon fill="#000000" stroke="#000000" points="195.0839,-626.1918 188.0832,-618.2394 188.5967,-628.8218 195.0839,-626.1918"/>
+
+<text text-anchor="middle" x="206.3623" y="-640.6279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge45_128"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7126047/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="213.2498,-646.6839 213.2498,-668.6839 240.2498,-668.6839 240.2498,-646.6839 213.2498,-646.6839"/>
+
+<text text-anchor="start" x="215.8592" y="-653.0839" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge45_128" class="icon" pointer-events="all"><circle cx="253.91119999999998" cy="-656.1514999999999" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="253.91119999999998" cy="-660.1514999999999" r="0.75" fill="gold"/><rect x="253.41119999999998" y="-658.1514999999999" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- snail&#45;&gt;pig -->
+
+<g id="edge46" class="edge">
+
+<title>snail-&gt;pig</title>
+
+<path fill="none" stroke="#000000" d="M226.5575,-672.216C234.2852,-660.2697 246.2217,-644.9572 260.8623,-636.4279 287.8391,-620.7117 373.3789,-609.4572 423.0912,-604.0504"/>
+
+<polygon fill="#000000" stroke="#000000" points="423.5467,-607.5218 433.1215,-602.986 422.8079,-600.5609 423.5467,-607.5218"/>
+
+<text text-anchor="middle" x="264.3623" y="-640.6279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge46_129"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7126047/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="230.0575,-647.216 230.0575,-669.216 257.0575,-669.216 257.0575,-647.216 230.0575,-647.216"/>
+
+<text text-anchor="start" x="232.6669" y="-653.616" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge46_129" class="icon" pointer-events="all"><circle cx="270.7189" cy="-656.6836" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="270.7189" cy="-660.6836" r="0.75" fill="gold"/><rect x="270.2189" y="-658.6836" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- flea&#45;&gt;human -->
+
+<g id="edge24" class="edge">
+
+<title>flea-&gt;human</title>
+
+<path fill="none" stroke="#000000" d="M1116.2805,-426.4601C1056.347,-435.1879 913.3731,-459.1986 880.8623,-493.6279 858.3286,-517.4914 846.7083,-612.9129 842.1778,-661.0921"/>
+
+<polygon fill="#000000" stroke="#000000" points="838.6822,-660.8876 841.2699,-671.1615 845.6539,-661.5162 838.6822,-660.8876"/>
+
+<text text-anchor="middle" x="863.3623" y="-551.8279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge24_130"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6797873/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="1086.7805,-429.4601 1086.7805,-451.4601 1113.7805,-451.4601 1113.7805,-429.4601 1086.7805,-429.4601"/>
+
+<text text-anchor="start" x="1089.3899" y="-435.8601" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge24_130" class="icon" pointer-events="all"><circle cx="1127.4418999999998" cy="-438.9277" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1127.4418999999998" cy="-442.9277" r="0.75" fill="gold"/><rect x="1126.9418999999998" y="-440.9277" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- fix -->
+
+<g id="node21" class="node">
+
+<title>fix</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="316.8623" cy="-778.0279" rx="27" ry="18"/>
+
+<text text-anchor="middle" x="316.8623" y="-773.8279" font-family="Times,serif" font-size="14.00" fill="#000000">fix</text>
+
+</g>
+
+<!-- fix&#45;&gt;human -->
+
+<g id="edge23" class="edge">
+
+<title>fix-&gt;human</title>
+
+<path fill="none" stroke="#000000" d="M337.8008,-766.4687C342.6477,-764.1017 347.8548,-761.7967 352.8623,-760.0279 421.0713,-735.9337 440.4746,-736.9238 511.8623,-725.2279 611.2003,-708.9526 728.702,-698.0589 792.6301,-692.8269"/>
+
+<polygon fill="#000000" stroke="#000000" points="793.1106,-696.2996 802.7963,-692.0058 792.5469,-689.3223 793.1106,-696.2996"/>
+
+<text text-anchor="middle" x="515.3623" y="-729.4279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge23_131"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7110368/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="333.0508,-741.4687 333.0508,-763.4687 360.0508,-763.4687 360.0508,-741.4687 333.0508,-741.4687"/>
+
+<text text-anchor="start" x="335.6602" y="-747.8687" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge23_131" class="icon" pointer-events="all"><circle cx="373.7122" cy="-750.9363" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="373.7122" cy="-754.9363" r="0.75" fill="gold"/><rect x="373.2122" y="-752.9363" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- mosquito&#45;&gt;cat -->
+
+<g id="edge35" class="edge">
+
+<title>mosquito-&gt;cat</title>
+
+<path fill="none" stroke="#000000" d="M928.8268,-582.4579C926.753,-570.1809 923.9632,-553.6651 921.5991,-539.67"/>
+
+<polygon fill="#000000" stroke="#000000" points="925.01,-538.8485 919.8932,-529.5712 918.1078,-540.0145 925.01,-538.8485"/>
+
+<text text-anchor="middle" x="929.3623" y="-551.8279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge35_132"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7158197/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="932.3268,-557.4579 932.3268,-579.4579 959.3268,-579.4579 959.3268,-557.4579 932.3268,-557.4579"/>
+
+<text text-anchor="start" x="934.9362" y="-563.8579" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge35_132" class="icon" pointer-events="all"><circle cx="972.9882" cy="-566.9254999999999" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="972.9882" cy="-570.9254999999999" r="0.75" fill="gold"/><rect x="972.4882" y="-568.9254999999999" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- mosquito&#45;&gt;dog -->
+
+<g id="edge36" class="edge">
+
+<title>mosquito-&gt;dog</title>
+
+<path fill="none" stroke="#000000" d="M960.3685,-585.963C992.1909,-569.8154 1043.4994,-543.78 1076.1792,-527.1974"/>
+
+<polygon fill="#000000" stroke="#000000" points="1077.9418,-530.2278 1085.2757,-522.5815 1074.7743,-523.9855 1077.9418,-530.2278"/>
+
+<text text-anchor="middle" x="1039.3623" y="-551.8279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge36_133"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7158197/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="963.8685,-560.963 963.8685,-582.963 990.8685,-582.963 990.8685,-560.963 963.8685,-560.963"/>
+
+<text text-anchor="start" x="966.4779" y="-567.363" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge36_133" class="icon" pointer-events="all"><circle cx="1004.5299" cy="-570.4306" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1004.5299" cy="-574.4306" r="0.75" fill="gold"/><rect x="1004.0299" y="-572.4306" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- midges -->
+
+<g id="node25" class="node">
+
+<title>midges</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="400.8623" cy="-778.0279" rx="38.8632" ry="18"/>
+
+<text text-anchor="middle" x="400.8623" y="-773.8279" font-family="Times,serif" font-size="14.00" fill="#000000">midges</text>
+
+</g>
+
+<!-- midges&#45;&gt;human -->
+
+<g id="edge34" class="edge">
+
+<title>midges-&gt;human</title>
+
+<path fill="none" stroke="#000000" d="M430.2925,-766.0538C436.368,-763.8481 442.7721,-761.7131 448.8623,-760.0279 571.0092,-726.2279 719.2077,-704.478 793.1608,-694.8901"/>
+
+<polygon fill="#000000" stroke="#000000" points="794.0466,-698.3053 803.5212,-693.5637 793.1577,-691.362 794.0466,-698.3053"/>
+
+<text text-anchor="middle" x="601.3623" y="-729.4279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge34_134"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7129920/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="425.5425,-741.0538 425.5425,-763.0538 452.5425,-763.0538 452.5425,-741.0538 425.5425,-741.0538"/>
+
+<text text-anchor="start" x="428.1519" y="-747.4538" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge34_134" class="icon" pointer-events="all"><circle cx="466.20390000000003" cy="-750.5214" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="466.20390000000003" cy="-754.5214" r="0.75" fill="gold"/><rect x="465.70390000000003" y="-752.5214" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- mosquitoes -->
+
+<g id="node26" class="node">
+
+<title>mosquitoes</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="512.8623" cy="-778.0279" rx="55.0555" ry="18"/>
+
+<text text-anchor="middle" x="512.8623" y="-773.8279" font-family="Times,serif" font-size="14.00" fill="#000000">mosquitoes</text>
+
+</g>
+
+<!-- mosquitoes&#45;&gt;human -->
+
+<g id="edge37" class="edge">
+
+<title>mosquitoes-&gt;human</title>
+
+<path fill="none" stroke="#000000" d="M554.4999,-766.2444C561.9426,-764.1589 569.6288,-762.0187 576.8623,-760.0279 654.4368,-738.6781 745.0787,-714.4308 797.1453,-700.57"/>
+
+<polygon fill="#000000" stroke="#000000" points="798.2652,-703.8938 807.029,-697.9402 796.4653,-697.1292 798.2652,-703.8938"/>
+
+<text text-anchor="middle" x="703.3623" y="-729.4279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge37_135"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7110368/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="549.7499,-741.2444 549.7499,-763.2444 576.7499,-763.2444 576.7499,-741.2444 549.7499,-741.2444"/>
+
+<text text-anchor="start" x="552.3593" y="-747.6444" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge37_135" class="icon" pointer-events="all"><circle cx="590.4113" cy="-750.712" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="590.4113" cy="-754.712" r="0.75" fill="gold"/><rect x="589.9113" y="-752.712" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- mosquitos -->
+
+<g id="node27" class="node">
+
+<title>mosquitos</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="636.8623" cy="-778.0279" rx="50.9832" ry="18"/>
+
+<text text-anchor="middle" x="636.8623" y="-773.8279" font-family="Times,serif" font-size="14.00" fill="#000000">mosquitos</text>
+
+</g>
+
+<!-- mosquitos&#45;&gt;human -->
+
+<g id="edge38" class="edge">
+
+<title>mosquitos-&gt;human</title>
+
+<path fill="none" stroke="#000000" d="M669.0282,-763.9573C705.4097,-748.0426 764.5563,-722.1696 802.8324,-705.4262"/>
+
+<polygon fill="#000000" stroke="#000000" points="804.3283,-708.5921 812.0873,-701.3777 801.5228,-702.1789 804.3283,-708.5921"/>
+
+<text text-anchor="middle" x="760.3623" y="-729.4279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge38_136"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7129920/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="664.2782,-738.9573 664.2782,-760.9573 691.2782,-760.9573 691.2782,-738.9573 664.2782,-738.9573"/>
+
+<text text-anchor="start" x="666.8876" y="-745.3573" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge38_136" class="icon" pointer-events="all"><circle cx="704.9396" cy="-748.4249" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="704.9396" cy="-752.4249" r="0.75" fill="gold"/><rect x="704.4396" y="-750.4249" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- rat -->
+
+<g id="node28" class="node">
+
+<title>rat</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="1178.8623" cy="-511.6279" rx="27" ry="18"/>
+
+<text text-anchor="middle" x="1178.8623" y="-507.4279" font-family="Times,serif" font-size="14.00" fill="#000000">rat</text>
+
+</g>
+
+<!-- rat&#45;&gt;flea -->
+
+<g id="edge42" class="edge">
+
+<title>rat-&gt;flea</title>
+
+<path fill="none" stroke="#000000" d="M1171.7498,-494.0839C1166.6219,-481.435 1159.6056,-464.1281 1153.772,-449.7384"/>
+
+<polygon fill="#000000" stroke="#000000" points="1156.9606,-448.2879 1149.9599,-440.3355 1150.4735,-450.9179 1156.9606,-448.2879"/>
+
+<text text-anchor="middle" x="1167.3623" y="-463.0279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge42_137"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6797873/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="1175.2498,-469.0839 1175.2498,-491.0839 1202.2498,-491.0839 1202.2498,-469.0839 1175.2498,-469.0839"/>
+
+<text text-anchor="start" x="1177.8592" y="-475.4839" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge42_137" class="icon" pointer-events="all"><circle cx="1215.9112" cy="-478.55150000000003" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1215.9112" cy="-482.55150000000003" r="0.75" fill="gold"/><rect x="1215.4112" y="-480.55150000000003" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- rodent -->
+
+<g id="node29" class="node">
+
+<title>rodent</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="740.8623" cy="-778.0279" rx="35.9154" ry="18"/>
+
+<text text-anchor="middle" x="740.8623" y="-773.8279" font-family="Times,serif" font-size="14.00" fill="#000000">rodent</text>
+
+</g>
+
+<!-- rodent&#45;&gt;human -->
+
+<g id="edge43" class="edge">
+
+<title>rodent-&gt;human</title>
+
+<path fill="none" stroke="#000000" stroke-width="2.4" d="M758.5615,-762.1522C774.0917,-748.2221 796.8642,-727.7959 814.3601,-712.1026"/>
+
+<polygon fill="#000000" stroke="#000000" stroke-width="2.4" points="816.8754,-714.5482 821.9825,-705.2655 812.2013,-709.3373 816.8754,-714.5482"/>
+
+<text text-anchor="middle" x="803.3623" y="-729.4279" font-family="Times,serif" font-size="14.00" fill="#000000">2</text>
+
+<g id="a_edge43_138"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc1533478/pdf/" xlink:title="2">
+
+<polygon fill="none" stroke="#000000" points="729.0615,-737.1522 729.0615,-759.1522 756.0615,-759.1522 756.0615,-737.1522 729.0615,-737.1522"/>
+
+<text text-anchor="start" x="731.6709" y="-743.5522" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge43_138" class="icon" pointer-events="all"><circle cx="769.7229" cy="-746.6197999999999" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="769.7229" cy="-750.6197999999999" r="0.75" fill="gold"/><rect x="769.2229" y="-748.6197999999999" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge43_139"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7110368/pdf/" xlink:title="2">
+
+<polygon fill="none" stroke="#000000" points="729.0615,-713.1522 729.0615,-735.1522 756.0615,-735.1522 756.0615,-713.1522 729.0615,-713.1522"/>
+
+<text text-anchor="start" x="731.6709" y="-719.5522" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge43_139" class="icon" pointer-events="all"><circle cx="769.7229" cy="-722.6197999999999" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="769.7229" cy="-726.6197999999999" r="0.75" fill="gold"/><rect x="769.2229" y="-724.6197999999999" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- sandflies -->
+
+<g id="node30" class="node">
+
+<title>sandflies</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="839.8623" cy="-778.0279" rx="45.2208" ry="18"/>
+
+<text text-anchor="middle" x="839.8623" y="-773.8279" font-family="Times,serif" font-size="14.00" fill="#000000">sandflies</text>
+
+</g>
+
+<!-- sandflies&#45;&gt;human -->
+
+<g id="edge44" class="edge">
+
+<title>sandflies-&gt;human</title>
+
+<path fill="none" stroke="#000000" d="M839.8623,-759.6285C839.8623,-747.5228 839.8623,-731.4355 839.8623,-717.6953"/>
+
+<polygon fill="#000000" stroke="#000000" points="843.3624,-717.2999 839.8623,-707.2999 836.3624,-717.2999 843.3624,-717.2999"/>
+
+<text text-anchor="middle" x="843.3623" y="-729.4279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge44_140"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7110368/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="810.3623,-734.6285 810.3623,-756.6285 837.3623,-756.6285 837.3623,-734.6285 810.3623,-734.6285"/>
+
+<text text-anchor="start" x="812.9717" y="-741.0285" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge44_140" class="icon" pointer-events="all"><circle cx="851.0237000000001" cy="-744.0961" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="851.0237000000001" cy="-748.0961" r="0.75" fill="gold"/><rect x="850.5237000000001" y="-746.0961" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- squirrel -->
+
+<g id="node31" class="node">
+
+<title>squirrel</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="1264.8623" cy="-511.6279" rx="40.5654" ry="18"/>
+
+<text text-anchor="middle" x="1264.8623" y="-507.4279" font-family="Times,serif" font-size="14.00" fill="#000000">squirrel</text>
+
+</g>
+
+<!-- squirrel&#45;&gt;flea -->
+
+<g id="edge47" class="edge">
+
+<title>squirrel-&gt;flea</title>
+
+<path fill="none" stroke="#000000" d="M1243.6115,-496.1601C1223.1201,-481.245 1192.029,-458.6148 1169.8087,-442.4414"/>
+
+<polygon fill="#000000" stroke="#000000" points="1171.6192,-439.4302 1161.4744,-436.3751 1167.4998,-445.0898 1171.6192,-439.4302"/>
+
+<text text-anchor="middle" x="1217.3623" y="-463.0279" font-family="Times,serif" font-size="14.00" fill="#000000">1</text>
+
+<g id="a_edge47_141"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6797873/pdf/" xlink:title="1">
+
+<polygon fill="none" stroke="#000000" points="1247.1115,-471.1601 1247.1115,-493.1601 1274.1115,-493.1601 1274.1115,-471.1601 1247.1115,-471.1601"/>
+
+<text text-anchor="start" x="1249.7209" y="-477.5601" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge47_141" class="icon" pointer-events="all"><circle cx="1287.7729" cy="-480.6277" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="1287.7729" cy="-484.6277" r="0.75" fill="gold"/><rect x="1287.2729" y="-482.6277" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+<!-- ticks -->
+
+<g id="node32" class="node">
+
+<title>ticks</title>
+
+<ellipse fill="#add8e6" stroke="#000000" cx="932.8623" cy="-778.0279" rx="29.0509" ry="18"/>
+
+<text text-anchor="middle" x="932.8623" y="-773.8279" font-family="Times,serif" font-size="14.00" fill="#000000">ticks</text>
+
+</g>
+
+<!-- ticks&#45;&gt;human -->
+
+<g id="edge48" class="edge">
+
+<title>ticks-&gt;human</title>
+
+<path fill="none" stroke="#000000" stroke-width="2.4" d="M916.6629,-762.5601C902.2621,-748.8097 880.9939,-728.5019 864.4879,-712.7414"/>
+
+<polygon fill="#000000" stroke="#000000" stroke-width="2.4" points="866.4681,-709.7929 856.8185,-705.4184 861.634,-714.8556 866.4681,-709.7929"/>
+
+<text text-anchor="middle" x="898.3623" y="-729.4279" font-family="Times,serif" font-size="14.00" fill="#000000">2</text>
+
+<g id="a_edge48_142"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7129920/pdf/" xlink:title="2">
+
+<polygon fill="none" stroke="#000000" points="920.1629,-737.5601 920.1629,-759.5601 947.1629,-759.5601 947.1629,-737.5601 920.1629,-737.5601"/>
+
+<text text-anchor="start" x="922.7723" y="-743.9601" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge48_142" class="icon" pointer-events="all"><circle cx="960.8243" cy="-747.0277" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="960.8243" cy="-751.0277" r="0.75" fill="gold"/><rect x="960.3243" y="-749.0277" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+<g id="a_edge48_143"><a xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7110368/pdf/" xlink:title="2">
+
+<polygon fill="none" stroke="#000000" points="920.1629,-713.5601 920.1629,-735.5601 947.1629,-735.5601 947.1629,-713.5601 920.1629,-713.5601"/>
+
+<text text-anchor="start" x="922.7723" y="-719.9601" font-family="Times,serif" font-size="14.00" fill="#000000">link</text>
+
+<g id="icon_a_edge48_143" class="icon" pointer-events="all"><circle cx="960.8243" cy="-723.0277" r="8" fill="none" stroke="gold" stroke-width="1.5"/><circle cx="960.8243" cy="-727.0277" r="0.75" fill="gold"/><rect x="960.3243" y="-725.0277" width="1" height="6" fill="gold"/></g></a>
+
+</g>
+
+</g>
+
+</g>
+
+</svg>

@@ -1,5 +1,5 @@
 import re
-from Final_Project.utils import sort_file
+from utils import sort_file , create_divs , create_id2para, bind_ids
 
 
 def generate_graphviz_data(file_name):
@@ -83,12 +83,15 @@ def add_icon_to_svg(r_file_name, w_file_name):
                 w_file.write(line)
 
             line = r_file.readline()
-
+    return all_ids
 
 def main():
-    sort_file("transsmissions_data3")
-    parag2link = generate_graphviz_data("sorted_file")
-    #add_icon_to_svg("data/graphviz.svg", "data/graphviz2.svg")
+    # sort_file("transsmissions_data3")
+    # generate_graphviz_data("sorted_file")
+    ids = add_icon_to_svg("data/graphviz.svg", "data/graphviz2.svg")
+    id2paragraph = create_id2para("sorted_file")
+    id2paragraph = bind_ids(id2paragraph, ids)
+    create_divs(id2paragraph)
 
     # TODO 1. Generate transmission_data and filter it
     # 2. build sort function (sort by animal poair)

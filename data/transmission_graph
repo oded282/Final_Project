@@ -35,8 +35,6 @@ digraph prof {
 	<tr><td href="https://api.semanticscholar.org/v1/paper/f84886d52a2dc934793dbaf2272f9a16c8da275c">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7165814/pdf/">link</td></tr>
 	<tr><td href="https://api.semanticscholar.org/10.1101/2020.04.22.20075572">link</td></tr>
-	<tr><td href="">link</td></tr>
-	<tr><td href="">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7254014/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7179739/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7110368/pdf/">link</td></tr></table>>,label=18,penwidth=5.6]
@@ -57,7 +55,6 @@ digraph prof {
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7087575/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6723642/pdf/">link</td></tr>
 	<tr><td href="https://api.semanticscholar.org/10.1101/2020.05.24.113175">link</td></tr>
-	<tr><td href="">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7267182/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7232928/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7103766/pdf/">link</td></tr>
