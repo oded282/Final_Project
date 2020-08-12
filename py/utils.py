@@ -266,3 +266,36 @@ def sort_file(file_name):
     data.sort()
     with open("sorted_file", "w", encoding="utf8") as file:
         file.write("".join(data))
+
+def LDA_coherency_graph():
+    import matplotlib.pyplot as plt
+
+    # x axis values
+    topcis = [20, 50, 150, 200, 300, 400]
+    # corresponding y axis values
+    coherency = [0.5743, 0.5989,0.6028,0.607,0.5979,0.597]
+
+    # plotting the points
+    plt.plot(topcis, coherency, color='green', linestyle='dashed', linewidth=3,
+             marker='o', markerfacecolor='blue', markersize=12)
+
+
+    # naming the x axis
+    plt.xlabel('Topics')
+    # naming the y axis
+    plt.ylabel('Coherency')
+
+    # giving a title to my graph
+    plt.title('LDA Model Evaluation')
+
+    plt.savefig("lda_eval.png")
+
+    # function to show the plot
+    # plt.show()
+
+
+def main():
+    LDA_coherency_graph()
+
+if __name__ == '__main__':
+    main()
