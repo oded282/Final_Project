@@ -2,22 +2,22 @@ digraph prof {
 	ratio = fill;
 	node [style=filled, fillcolor=lightblue];
 	alpaca->bat[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7192909/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
-	bat->civet[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2831534/pdf/">link</td></tr> 
-	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6880172/pdf/">link</td></tr>
+	bat->alpaca[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7192909/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
+	bat->camel[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6880172/pdf/">link</td></tr> 
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6818114/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7149753/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7080179/pdf/">link</td></tr></table>>,label=4,penwidth=2.8]
+	bat->civet[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6880172/pdf/">link</td></tr> 
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7106130/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7163996/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7112277/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7154514/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3119930/pdf/">link</td></tr>
 	<tr><td href="https://api.semanticscholar.org/v1/paper/4bc7c77f00f5b46fea1d6ef83c44d7a58b687eef">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2831534/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3647518/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7180649/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7129017/pdf/">link</td></tr></table>>,label=11,penwidth=4.2]
-	bat->alpaca[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7192909/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
-	bat->camel[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6818114/pdf/">link</td></tr> 
-	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7149753/pdf/">link</td></tr>
-	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7080179/pdf/">link</td></tr></table>>,label=3,penwidth=2.6]
-	bat->camels[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6880172/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
 	bat->dromedary[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7154514/pdf/">link</td></tr> 
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7180649/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7129017/pdf/">link</td></tr></table>>,label=3,penwidth=2.6]
@@ -37,7 +37,7 @@ digraph prof {
 	<tr><td href="https://api.semanticscholar.org/10.1101/2020.04.22.20075572">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7254014/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7179739/pdf/">link</td></tr>
-	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7110368/pdf/">link</td></tr></table>>,label=18,penwidth=5.6]
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7110368/pdf/">link</td></tr></table>>,label=16,penwidth=5.2]
 	bat->pangolin[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7202812/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
 	bat->racoon[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3119930/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
 	bird->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7152116/pdf/">link</td></tr> 
@@ -49,8 +49,8 @@ digraph prof {
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6803248/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7114555/pdf/">link</td></tr></table>>,label=3,penwidth=2.6]
 	bovine->canine[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7089282/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
-	camel->human[taillabel=<<table> <tr><td href="https://api.semanticscholar.org/10.1101/2020.04.06.20055327">link</td></tr> 
-	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6257029/pdf/">link</td></tr>
+	camel->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6257029/pdf/">link</td></tr> 
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6505341/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc4809235/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7087575/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6723642/pdf/">link</td></tr>
@@ -66,19 +66,17 @@ digraph prof {
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7252187/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7198075/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7157479/pdf/">link</td></tr>
+	<tr><td href="https://api.semanticscholar.org/10.1101/2020.04.06.20055327">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7148737/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7165814/pdf/">link</td></tr>
 	<tr><td href="https://api.semanticscholar.org/10.1101/2019.12.18.881391">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6448012/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7162632/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6362578/pdf/">link</td></tr></table>>,label=24,penwidth=6.8]
-	camel->camel[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6505341/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
-	cat->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7198075/pdf/">link</td></tr> 
-	<tr><td href="https://api.semanticscholar.org/v1/paper/e2aee146a962f1d07174aa3266f6fa180d20bf4a">link</td></tr></table>>,label=2,penwidth=2.4]
+	cat->human[taillabel=<<table> <tr><td href="https://api.semanticscholar.org/v1/paper/e2aee146a962f1d07174aa3266f6fa180d20bf4a">link</td></tr> 
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7198075/pdf/">link</td></tr></table>>,label=2,penwidth=2.4]
 	cattle->dog[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7117484/pdf/">link</td></tr> </table>>,label=1,penwith=0.2]
-	civet->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2831534/pdf/">link</td></tr> 
-	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3647518/pdf/">link</td></tr>
-	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3630921/pdf/">link</td></tr>
+	civet->human[taillabel=<<table> <tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3630921/pdf/">link</td></tr> 
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7260574/pdf/">link</td></tr>
 	<tr><td href="https://api.semanticscholar.org/10.1101/2020.04.11.20054643">link</td></tr>
 	<tr><td href="https://api.semanticscholar.org/10.1101/2020.05.24.113175">link</td></tr>
@@ -95,6 +93,8 @@ digraph prof {
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3119930/pdf/">link</td></tr>
 	<tr><td href="https://api.semanticscholar.org/v1/paper/4bc7c77f00f5b46fea1d6ef83c44d7a58b687eef">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6021449/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2831534/pdf/">link</td></tr>
+	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3647518/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2572002/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7120285/pdf/">link</td></tr>
 	<tr><td href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7129017/pdf/">link</td></tr></table>>,label=22,penwidth=6.4]

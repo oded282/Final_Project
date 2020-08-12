@@ -37,17 +37,14 @@ svgFile.addEventListener("load",function() {
                         elems[j].style.display = "none";
                     }
                   }
-
                 }
                 },false);
-
       }
 
       var icons = svgContant.getElementsByClassName("icon");
       var size_icons = icons.length;
 
       var f = 0;
-
       for (; f < size_icons; f++) {
 
           icons[f].addEventListener("mouseover", showPopup);

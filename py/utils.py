@@ -1,8 +1,5 @@
 import re
-
-
 # from pattern3 import pluralize, singularize
-
 
 # This function used to create to files from the animal dictionary we find in the internet.
 # The dictionary contains an animal common name, and the scientific name related to the common one.
@@ -71,7 +68,7 @@ def arrange_animals_list(animals):
 def remove_nodes_from_svg_file():
     write_to_file = []
     prev_line = ""
-    with open('test_graph.html', 'r', encoding="utf8") as file:
+    with open('Graph/graph_img.svg', 'r', encoding="utf8") as file:
         for line in file:
             if line.startswith('<polygon fill="none" stroke="#000000" points=') and prev_line == '</g>\n':
                 continue
@@ -79,8 +76,8 @@ def remove_nodes_from_svg_file():
             write_to_file.append(line)
             prev_line = line
 
-    with open('graph.html', 'w', encoding="utf8") as file:
-        file.write("\n".join(write_to_file))
+    with open('Graph/graph_img.svg', 'w', encoding="utf8") as file:
+        file.write(" ".join(write_to_file))
 
 
 def sort_file(file_name):
@@ -99,7 +96,9 @@ def remove_unnecessary_space(str):
     count = 0
     open_apostrophe = True
     for index, char in enumerate(temp):
-        if (char == ',' or char == '.' or char == ')' or char == ";" or char == ']' or char == '%' or char == '’' or char == ':' or char == '-') and temp[index - 1] == ' ':
+        if (
+                char == ',' or char == '.' or char == ')' or char == ";" or char == ']' or char == '%' or char == '’' or char == ':' or char == '-') and \
+                temp[index - 1] == ' ':
             str = str[:index - 1 - count] + str[index - count:]
             count += 1
 
@@ -185,22 +184,85 @@ def bind_ids(id2paragraph, ids):
     return new_dic
 
 
-def main():
-    # id2paragraph = {
-    #     "a_edge1_0": "jsdhfjdnjxn;cvjnzxjccxbjmb xnmchnjcn mxcnnnnnnnnnnnnnnnnnnnnnnnnmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmxcjhkxhc jhxchxjchxjcnxcjn",
-    #     "a_edge1_1": "ssssssssssssssssssssssssssssssssssssssssssssssssss sssssssssssssss dk                   kdddddddddddd kddddddddddddddddddddddddddddddddddddddddddddd",
-    #     "a_edge1_2": "jsdhfjdnjxn;cvjnzxjccxbjmb xnmchnjcn mxcnnnnnnnnnnnnnnnnnnnnnnnnmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmxcjhkxhc jhxchxjchxjcnxcjn",
-    #     "a_edge1_3": "ssssssssssssssssssssssssssssssssssssssssssssssssss sssssssssssssss dk                   kdddddddddddd kddddddddddddddddddddddddddddddddddddddddddddd",
-    #     "a_edge2_4": "jsdhfjdnjxn;cvjnzxjccxbjmb xnmchnjcn mxcnnnnnnnnnnnnnnnnnnnnnnnnmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmxcjhkxhc jhxchxjchxjcnxcjn",
-    #     "a_edge2_5": "ssssssssssssssssssssssssssssssssssssssssssssssssss sssssssssssssss dk                   kdddddddddddd kddddddddddddddddddddddddddddddddddddddddddddd",
-    #     "a_edge2_6": "jsdhfjdnjxn;cvjnzxjccxbjmb xnmchnjcn mxcnnnnnnnnnnnnnnnnnnnnnnnnmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmxcjhkxhc jhxchxjchxjcnxcjn",
-    #     "a_edge2_7": "ssssssssssssssssssssssssssssssssssssssssssssssssss sssssssssssssss dk                   kdddddddddddd kddddddddddddddddddddddddddddddddddddddddddddd",
-    # }
-    # create_divs(id2paragraph)
-    # id2paragraph = create_id2para("sorted_file")
-    # bind_ids(id2paragraph, id2paragraph.keys())
-    remove_nodes_from_svg_file()
+def design_graph(file_name):
+    pattern1 = re.compile(r'cx="-*\d+\.\d+"')
+    pattern2 = re.compile(r' x="-*\d+\.\d+"')
+    pattern3 = re.compile(r'a_edge\d+_\d+')
+    pattern4 = re.compile(r'cy="-*\d+\.\d+"')
+    pattern5 = re.compile(r' y="-*\d+\.\d+"')
+    # pattern5 = re.compile(r'fill="#[A-Z0-9]+"')
+    new_file = []
+
+    with open(file_name, "r", encoding="utf-8") as file:
+        for line in file:
+            line = line.strip()
+
+            if "<polygon fill=\"none\" stroke=\"#000000\"" in line:
+                continue
+
+            if "link to article" in line:
+                fill_index = line.index("fill")
+                new_line = line[:6] + "text-decoration=\"underline\" " + line[6:fill_index + 7] + "0BF5D7" \
+                           + line[fill_index + 13:]
+                new_file.append(new_line)
+                continue
+
+            if "class=\"icon\"" in line:
+                cxpoints = [float(cx[4:-1]) for cx in pattern1.findall(line)]
+                xpoint = float(pattern2.findall(line)[0][4:-1])
+                id = pattern3.findall(line)[0]
+                cypoints = [float(cy[4:-1]) for cy in pattern4.findall(line)]
+                ypoint = float(pattern5.findall(line)[0][4:-1])
+
+                new_line = "<g id=\"icon_{}\" class=\"icon\" pointer-events=\"all\">" \
+                           "<circle cx=\"{}\" cy=\"{}\" r=\"8\" fill=\"none\" stroke=\"gold\" " \
+                           "stroke-width=\"1.5\"/>" \
+                           "<circle cx=\"{}\" cy=\"{}\" r=\"0.75\" fill=\"gold\"/>" \
+                           "<rect x=\"{}\" y=\"{}\" width=\"1\" height=\"6\" fill=\"gold\"/></g></a>" \
+                    .format(id, cxpoints[0] + 48.0, cypoints[0], cxpoints[1] + 48.0, cypoints[1], xpoint + 48.0, ypoint)
+
+                new_file.append(new_line)
+                continue
+
+            new_file.append(line)
+
+        with open("new_graph.html", "w", encoding="utf-8") as f:
+            f.write("\n".join(new_file))
 
 
-if __name__ == "__main__":
-    main()
+def merge_files(old_file_name, current_file_name):
+    new_file_data = []
+    isfind = False
+    with open(old_file_name, "r", encoding="utf8") as old_file:
+
+        for line in old_file:
+            isfind = False
+            temp = line.split("|")
+            sentence = temp[2]
+
+            with open(current_file_name, "r", encoding="utf8") as current_file:
+
+                for index, current_line in enumerate(current_file):
+                    current_temp = current_line.split("|")
+                    current_sentence = current_temp[2]
+
+                    if current_sentence == sentence:
+                        new_file_data.append(line.replace("\n", "") + "|" + current_temp[4].replace("\n", ""))
+                        isfind = True
+                        break
+
+            print(isfind)
+
+    with open("transmissions_data_new", "w", encoding="utf8") as new_file:
+        new_file.write("\n".join(new_file_data))
+
+
+def sort_file(file_name):
+    data = []
+    with open(file_name, "r", encoding="utf8") as file:
+        for line in file:
+            data.append("|".join(line.split("|")[1:]))
+
+    data.sort()
+    with open("sorted_file", "w", encoding="utf8") as file:
+        file.write("".join(data))
