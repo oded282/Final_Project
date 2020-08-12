@@ -1,10 +1,10 @@
-from utils import arrange_animals_list
+from py.utils import arrange_animals_list
 from data.animal_dictionary import animals_list
-from pattern3.en import pluralize, singularize
+from pattern3.en import singularize
 import re
 
 
-def check_animal_in_sentence(animals_set, data, per_animals_list, sentence, complex_sentence_list, link,paragraph):
+def check_animal_in_sentence(animals_set, data, per_animals_list, sentence, complex_sentence_list, link, paragraph):
     animals_in_sentence_set = set()
 
     for word in sentence.split(" "):
@@ -54,7 +54,7 @@ def filter_1_result_query(file_name, animals_set):
                 continue
 
             check_animal_in_sentence(animals_set, data, per_animals_list, sentence,
-                                                       complex_sentence_list,link,paragraph)
+                                     complex_sentence_list, link, paragraph)
 
             prev_sent = sentence
     data.pop(0)
@@ -99,6 +99,7 @@ def filter_transmit_query():
 
 
 def main():
+    print(len(animals_list))
     filter_transmit_query()
 
 
