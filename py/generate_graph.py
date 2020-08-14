@@ -1,5 +1,7 @@
 import re
-from py.utils import create_divs, create_id2para, bind_ids, remove_nodes_from_svg_file
+
+
+from Final_Project.py.utils import create_divs, create_id2para, bind_ids, remove_nodes_from_svg_file
 
 
 def generate_graphviz_data(file_name):
@@ -88,8 +90,8 @@ def add_icon_to_svg(r_file_name, w_file_name):
 
 def main():
     remove_nodes_from_svg_file()
-    ids = add_icon_to_svg("Graph/graph_img.svg", "data/graphviz2.svg")
-    id2paragraph = create_id2para("sorted_file")
+    ids = add_icon_to_svg("/home/obennoon/final_project/Final_Project/Graph/graph_img.svg", "/home/obennoon/final_project/Final_Project/data/graphviz2.svg")
+    id2paragraph = create_id2para("/home/obennoon/final_project/Final_Project/data/sorted_file")
     id2paragraph = bind_ids(id2paragraph, ids)
     create_divs(id2paragraph)
 

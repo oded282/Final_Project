@@ -68,7 +68,7 @@ def arrange_animals_list(animals):
 def remove_nodes_from_svg_file():
     write_to_file = []
     prev_line = ""
-    with open('Graph/graph_img.svg', 'r', encoding="utf8") as file:
+    with open('/home/obennoon/final_project/Final_Project/data/graphviz3.svg', 'r', encoding="utf8") as file:
         for line in file:
             if line.startswith('<polygon fill="none" stroke="#000000" points=') and prev_line == '</g>\n':
                 continue
@@ -76,7 +76,7 @@ def remove_nodes_from_svg_file():
             write_to_file.append(line)
             prev_line = line
 
-    with open('Graph/graph_img.svg', 'w', encoding="utf8") as file:
+    with open('/home/obennoon/final_project/Final_Project/Graph/graph_img.svg', 'w', encoding="utf8") as file:
         file.write(" ".join(write_to_file))
 
 
@@ -295,7 +295,7 @@ def LDA_coherency_graph():
 
 
 def main():
-    LDA_coherency_graph()
+    design_graph("/home/obennoon/final_project/Final_Project/data/graphviz2.svg")
 
 if __name__ == '__main__':
     main()
